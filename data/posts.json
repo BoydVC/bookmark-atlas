@@ -1,0 +1,4949 @@
+{
+ "generated": "2026-10-07T16:33:44-04:00",
+ "source_counts": {
+  "bookmarks-full.yml": 5,
+  "bookmarks-lower.yml": 7,
+  "bookmarks-mid.yml": 5,
+  "bookmarks-reload.yml": 5,
+  "bookmarks-scroll.yml": 6,
+  "bookmarks-scroll2.yml": 6,
+  "bookmarks-top.yml": 3,
+  "bookmarks.yml": 5,
+  "bookmarks2.yml": 5,
+  "bm3.yml": 7,
+  "bm4.yml": 7,
+  "elon-p2.yml": 5,
+  "elon-p3.yml": 5,
+  "elon-scroll.yml": 10,
+  "elon-search2.yml": 11,
+  "elon-search3.yml": 12,
+  "elon-up.yml": 9,
+  "jim/x-bookmarks-2026-08-27.json": 26,
+  "jim/x-bookmarks-2026-09-10.json": 19,
+  "jim/elon-2026-08-27.json": 43,
+  "jim/elon-2026-09-10.json": 10,
+  "x-scrape-2026-09-21.json.log#BOOKMARKS": 16,
+  "x-scrape-2026-09-21.json.log#NEW_BOOKMARKS": 4,
+  "x-scrape-2026-09-21.json.log#ELON_SEARCH": 7,
+  "x-scrape-2026-09-21.json.log#ELON_PROFILE": 11,
+  "ij_2026-09-25.md": 0,
+  "ij_2026-09-27.md": 8,
+  "ij_2026-09-27_bookmarks.md": 10,
+  "ij_2026-09-27_research.md": 0,
+  "ij_2026-09-28_research.md": 5,
+  "ij_2026-09-29_research.md": 0,
+  "ij_2026-10-01_body.md": 5,
+  "ij_2026-10-01_research.md": 5,
+  "ij_2026-10-04_research.md": 0,
+  "ij_2026-10-05_research.md": 0,
+  "ij_2026-10-05_x.md": 0,
+  "ij_2026-10-06_content.md": 0,
+  "ij_2026-10-06_research.md": 0,
+  "ij_2026-10-06_x.md": 3,
+  "interest-journal-2026-09-21/draft-notes.md": 0,
+  "interest-journal-2026-09-24/musk-sports-research.md": 0,
+  "jim/musk-cos-2026-08-24.md": 0,
+  "jim/musk-cos-2026-08-25.md": 0,
+  "jim/musk-cos-2026-08-26.md": 0,
+  "jim/musk-cos-2026-08-27.md": 3,
+  "jim/musk-cos-2026-08-28.md": 0,
+  "jim/musk-cos-2026-08-29.md": 0,
+  "jim/musk-cos-2026-08-30.md": 0
+ },
+ "posts": [
+  {
+   "id": "2107533151597969869",
+   "handle": "EXM7777",
+   "name": "Machina",
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "ij_2026-10-06_x.md"
+   ],
+   "captured": [
+    "2026-10-06"
+   ],
+   "engagement": {},
+   "notes": [
+    "@EXM7777 (Machina), ~2pm ET Oct 6: says building an AI influencer now is like buying Bitcoin in 2017. Gives a Higgsfield playbook and quotes his own article \"How to get rich in the attention economy (AI Influencers)\"."
+   ],
+   "url": "https://x.com/EXM7777/status/2107533151597969869",
+   "posted": "2026-10-06T14:07:14.070000-04:00",
+   "posted_date": "2026-10-06",
+   "kind": "bookmark",
+   "text_is_note": true
+  },
+  {
+   "id": "2107472129960575369",
+   "handle": "benln",
+   "name": "Ben Lang",
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "ij_2026-10-06_x.md"
+   ],
+   "captured": [
+    "2026-10-06"
+   ],
+   "engagement": {},
+   "notes": [
+    "@benln (Ben Lang), ~10am ET Oct 6: tip to have your main Grok Bot read the new x.ai/bot/guides and recommend best practices for your Bots (267K views)."
+   ],
+   "url": "https://x.com/benln/status/2107472129960575369",
+   "posted": "2026-10-06T10:04:45.378000-04:00",
+   "posted_date": "2026-10-06",
+   "kind": "bookmark",
+   "text_is_note": true
+  },
+  {
+   "id": "2107170117243310471",
+   "handle": "claudeskills101",
+   "name": "Mr. Claude",
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "ij_2026-10-06_x.md"
+   ],
+   "captured": [
+    "2026-10-06"
+   ],
+   "engagement": {},
+   "notes": [
+    "@claudeskills101 (Mr. Claude), Oct 5: 8 prompts for making explainer videos with Claude Opus 5.5 in Claude Code, from kinetic text to Manim math animations (261K views)."
+   ],
+   "url": "https://x.com/claudeskills101/status/2107170117243310471",
+   "posted": "2026-10-05T14:04:39.935000-04:00",
+   "posted_date": "2026-10-05",
+   "kind": "bookmark",
+   "text_is_note": true
+  },
+  {
+   "id": "2105755817555436014",
+   "handle": "elonmusk",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "ij_2026-10-01_body.md",
+    "ij_2026-10-01_research.md"
+   ],
+   "captured": [
+    "2026-10-01"
+   ],
+   "engagement": {},
+   "notes": [
+    "Grok Bot product: “Try Grok @Bot”; “Grok @Bot is an amazing assistant” (proactive travel example); “Major speed improvements to @Bot”. 2105719249826099666 2105752064747847794 2105755817555436014",
+    "> Major speed improvements to @Bot"
+   ],
+   "url": "https://x.com/elonmusk/status/2105755817555436014",
+   "posted": "2026-10-01T16:24:44.613000-04:00",
+   "posted_date": "2026-10-01",
+   "kind": "elon-watch",
+   "text_is_note": true
+  },
+  {
+   "id": "2105752064747847794",
+   "handle": "elonmusk",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "ij_2026-10-01_body.md",
+    "ij_2026-10-01_research.md"
+   ],
+   "captured": [
+    "2026-10-01"
+   ],
+   "engagement": {},
+   "notes": [
+    "Grok Bot product: “Try Grok @Bot”; “Grok @Bot is an amazing assistant” (proactive travel example); “Major speed improvements to @Bot”. 2105719249826099666 2105752064747847794 2105755817555436014",
+    "> Grok @Bot is an amazing assistant"
+   ],
+   "url": "https://x.com/elonmusk/status/2105752064747847794",
+   "posted": "2026-10-01T16:09:49.874000-04:00",
+   "posted_date": "2026-10-01",
+   "kind": "elon-watch",
+   "text_is_note": true
+  },
+  {
+   "id": "2105751786925752511",
+   "handle": "elonmusk",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "ij_2026-10-01_body.md",
+    "ij_2026-10-01_research.md"
+   ],
+   "captured": [
+    "2026-10-01"
+   ],
+   "engagement": {},
+   "notes": [
+    "Gov design: Praise for Joe Gebbia / National Design Studio (passport / better gov services). 2105751786925752511",
+    "> The nation owes a debt to @JGebbia and his excellent team. They worked incredibly hard, with no compensation, to make government services work better for all Americans."
+   ],
+   "url": "https://x.com/elonmusk/status/2105751786925752511",
+   "posted": "2026-10-01T16:08:43.636000-04:00",
+   "posted_date": "2026-10-01",
+   "kind": "elon-watch",
+   "text_is_note": true
+  },
+  {
+   "id": "2105719249826099666",
+   "handle": "elonmusk",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "ij_2026-10-01_body.md",
+    "ij_2026-10-01_research.md"
+   ],
+   "captured": [
+    "2026-10-01"
+   ],
+   "engagement": {},
+   "notes": [
+    "Grok Bot product: “Try Grok @Bot”; “Grok @Bot is an amazing assistant” (proactive travel example); “Major speed improvements to @Bot”. 2105719249826099666 2105752064747847794 2105755817555436014",
+    "> Try Grok @Bot!"
+   ],
+   "url": "https://x.com/elonmusk/status/2105719249826099666",
+   "posted": "2026-10-01T13:59:26.187000-04:00",
+   "posted_date": "2026-10-01",
+   "kind": "elon-watch",
+   "text_is_note": true
+  },
+  {
+   "id": "2105718806769512812",
+   "handle": "elonmusk",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "ij_2026-10-01_body.md",
+    "ij_2026-10-01_research.md"
+   ],
+   "captured": [
+    "2026-10-01"
+   ],
+   "engagement": {},
+   "notes": [
+    "Star Mind / orbital SI: Each SpaceX Star Mind spacecraft >250kW solar (~20% more than ISS). 2105718806769512812",
+    "> Each @SpaceX Star Mind super intelligence spacecraft will have over 250kW of solar power, which is about 20% more than the International Space Station"
+   ],
+   "url": "https://x.com/elonmusk/status/2105718806769512812",
+   "posted": "2026-10-01T13:57:40.554000-04:00",
+   "posted_date": "2026-10-01",
+   "kind": "elon-watch",
+   "text_is_note": true
+  },
+  {
+   "id": "2104648244730929487",
+   "handle": "jamisonhensley",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "research"
+   ],
+   "sources": [
+    "ij_2026-09-28_research.md"
+   ],
+   "captured": [
+    "2026-09-28"
+   ],
+   "engagement": {},
+   "notes": [
+    "(Sep 28, 2026 ~4:24 pm)"
+   ],
+   "url": "https://x.com/jamisonhensley/status/2104648244730929487",
+   "posted": "2026-09-28T15:03:38.674000-04:00",
+   "posted_date": "2026-09-28",
+   "kind": "research",
+   "text_is_note": true
+  },
+  {
+   "id": "2104647659273228375",
+   "handle": "SemiAnalysis_",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "research"
+   ],
+   "sources": [
+    "ij_2026-09-28_research.md"
+   ],
+   "captured": [
+    "2026-09-28"
+   ],
+   "engagement": {},
+   "notes": [
+    "Sep 28 local + SemiAnalysis amplify: Spectrum News (published ~1:00 pm CDT Sep 28) — construction advancing on Terafab chip plant outside College Station / Grimes County; SpaceX + Tesla (xAI expected user); ~100M sq ft planned footprint; $16.8B first-phase investment / ~3,000 jobs (Abbott office); b"
+   ],
+   "url": "https://x.com/SemiAnalysis_/status/2104647659273228375",
+   "posted": "2026-09-28T15:01:19.090000-04:00",
+   "posted_date": "2026-09-28",
+   "kind": "research",
+   "text_is_note": true
+  },
+  {
+   "id": "2104647484169728442",
+   "handle": "Tesla",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "research"
+   ],
+   "sources": [
+    "ij_2026-09-28_research.md"
+   ],
+   "captured": [
+    "2026-09-28"
+   ],
+   "engagement": {},
+   "notes": [
+    "Official: Tesla @Tesla X post Sep 28 — outdoor Roadster demo (was Oct 1, McGregor / Waco area; SpaceX cold-gas thruster hover demo) rescheduled to Thursday Oct 15 citing severe weather forecast. Electrek / TechCrunch confirm; Electrek notes forecast clears within days and questions whether weather a"
+   ],
+   "url": "https://x.com/Tesla/status/2104647484169728442",
+   "posted": "2026-09-28T15:00:37.342000-04:00",
+   "posted_date": "2026-09-28",
+   "kind": "research",
+   "text_is_note": true
+  },
+  {
+   "id": "2104634635234005025",
+   "handle": "MatthewBerman",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "research"
+   ],
+   "sources": [
+    "ij_2026-09-28_research.md"
+   ],
+   "captured": [
+    "2026-09-28"
+   ],
+   "engagement": {},
+   "notes": [
+    "Launched Sep 28: Second Claude 5.5-family model; ~30%+ faster than Sonnet 5; same list price $2 / $10 per MTok in/out but up to ~30% cheaper per task via fewer tokens; stronger everyday coding / docs / slides. Highlights: Terminal-Bench 4.0 70.6% (vs Sonnet 5 10.3%); CursorBench 4.0 55.5% (near Opus"
+   ],
+   "url": "https://x.com/MatthewBerman/status/2104634635234005025",
+   "posted": "2026-09-28T14:09:33.917000-04:00",
+   "posted_date": "2026-09-28",
+   "kind": "research",
+   "text_is_note": true
+  },
+  {
+   "id": "2104618104278176016",
+   "handle": "straitlyai",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "research"
+   ],
+   "sources": [
+    "ij_2026-09-28_research.md"
+   ],
+   "captured": [
+    "2026-09-28"
+   ],
+   "engagement": {},
+   "notes": [
+    "Boyd opened Straitly.ai + Straitly X post on JevRouter (~4:41 pm ET): claims ~99% of Opus 5.5 / GPT-6 Astra intelligence at ~40% cost via multi-Jev routing; 30% off frontier models promo. Treat as product-marketing signal in agent-tooling overweight — not independent eval."
+   ],
+   "url": "https://x.com/straitlyai/status/2104618104278176016",
+   "posted": "2026-09-28T13:03:52.630000-04:00",
+   "posted_date": "2026-09-28",
+   "kind": "research",
+   "text_is_note": true
+  },
+  {
+   "id": "2104361756412019115",
+   "handle": "elonmusk",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "ij_2026-09-27.md",
+    "ij_2026-09-27_bookmarks.md"
+   ],
+   "captured": [
+    "2026-09-27"
+   ],
+   "engagement": {},
+   "notes": [
+    "Health curiosity: inclined bed therapy — \"Worth considering.\" 2104361756412019115",
+    "Inclined bed therapy — “Worth considering” (QT @anabology). 2026-09-27 20:05 ET"
+   ],
+   "url": "https://x.com/elonmusk/status/2104361756412019115",
+   "posted": "2026-09-27T20:05:14.536000-04:00",
+   "posted_date": "2026-09-27",
+   "kind": "elon-watch",
+   "text_is_note": true
+  },
+  {
+   "id": "2104361390123430335",
+   "handle": "elonmusk",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "ij_2026-09-27.md",
+    "ij_2026-09-27_bookmarks.md"
+   ],
+   "captured": [
+    "2026-09-27"
+   ],
+   "engagement": {},
+   "notes": [
+    "Starship F14 tomorrow: QT SpaceX — aiming to launch Mon morning (window 7:15 a.m. CT). 2104361390123430335",
+    "Starship Flight 14 aiming to launch tomorrow morning (QT @SpaceX: Mon Sep 28, window 7:15 a.m. CT). 2026-09-27 20:03 ET"
+   ],
+   "url": "https://x.com/elonmusk/status/2104361390123430335",
+   "posted": "2026-09-27T20:03:47.206000-04:00",
+   "posted_date": "2026-09-27",
+   "kind": "elon-watch",
+   "text_is_note": true
+  },
+  {
+   "id": "2104360927474921529",
+   "handle": "elonmusk",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "ij_2026-09-27.md",
+    "ij_2026-09-27_bookmarks.md"
+   ],
+   "captured": [
+    "2026-09-27"
+   ],
+   "engagement": {},
+   "notes": [
+    "AGI feel: \"I really felt the AGI profoundly this time\" (video). 2104360927474921529",
+    "AGI — “I really felt the AGI profoundly this time” (video). 2026-09-27 20:01 ET"
+   ],
+   "url": "https://x.com/elonmusk/status/2104360927474921529",
+   "posted": "2026-09-27T20:01:56.902000-04:00",
+   "posted_date": "2026-09-27",
+   "kind": "elon-watch",
+   "text_is_note": true
+  },
+  {
+   "id": "2104286638079676914",
+   "handle": "elonmusk",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "ij_2026-09-27.md",
+    "ij_2026-09-27_bookmarks.md"
+   ],
+   "captured": [
+    "2026-09-27"
+   ],
+   "engagement": {},
+   "notes": [
+    "Blue Origin capital efficiency: \"Yup\" on Bezos/Blue Origin vs SpaceX spend framing. 2104286638079676914",
+    "Blue Origin vs SpaceX capital efficiency — “Yup” (QT @YourMomDave1 / WSJ $30B Bezos). 2026-09-27 15:06 ET"
+   ],
+   "url": "https://x.com/elonmusk/status/2104286638079676914",
+   "posted": "2026-09-27T15:06:44.930000-04:00",
+   "posted_date": "2026-09-27",
+   "kind": "elon-watch",
+   "text_is_note": true
+  },
+  {
+   "id": "2104286187754033326",
+   "handle": "elonmusk",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "ij_2026-09-27.md",
+    "ij_2026-09-27_bookmarks.md"
+   ],
+   "captured": [
+    "2026-09-27"
+   ],
+   "engagement": {},
+   "notes": [
+    "Voter ID: NY/CA \"made election fraud mandatory\" (QT Maye). 2104286187754033326",
+    "Voter ID — NY/CA “made election fraud mandatory” (QT @mayemusk). 2026-09-27 15:04 ET"
+   ],
+   "url": "https://x.com/elonmusk/status/2104286187754033326",
+   "posted": "2026-09-27T15:04:57.564000-04:00",
+   "posted_date": "2026-09-27",
+   "kind": "elon-watch",
+   "text_is_note": true
+  },
+  {
+   "id": "2104135091417215376",
+   "handle": "elonmusk",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "ij_2026-09-27.md",
+    "ij_2026-09-27_bookmarks.md"
+   ],
+   "captured": [
+    "2026-09-27"
+   ],
+   "engagement": {},
+   "notes": [
+    "AI agents / video: \"Literally\" on agents leaving a sandbox; \"Wow\" on Opus 5.5 + Midjourney video. 2104061143153053801 2104135091417215376",
+    "AI video / Opus — “Wow” (QT @anabology, Opus 5.5 + Midjourney moodboard). 2026-09-27 05:04 ET"
+   ],
+   "url": "https://x.com/elonmusk/status/2104135091417215376",
+   "posted": "2026-09-27T05:04:33.390000-04:00",
+   "posted_date": "2026-09-27",
+   "kind": "elon-watch",
+   "text_is_note": true
+  },
+  {
+   "id": "2104088147739242660",
+   "handle": "kloss_xyz",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "research",
+    "bookmark"
+   ],
+   "sources": [
+    "ij_2026-09-27.md",
+    "ij_2026-09-27_bookmarks.md"
+   ],
+   "captured": [
+    "2026-09-27"
+   ],
+   "engagement": {},
+   "notes": [
+    "@kloss_xyz — vibe-coding prompt: list codebase assumptions as verified vs guessed, then a high-confidence surgical fix (Claude Code / Codex / Grok). ~01:58 ET Sun. post",
+    "@kloss_xyz — vibe-coding prompt: list codebase assumptions as verified vs guessed, then a high-confidence surgical fix (Claude Code / Codex / Grok). Posted ~2026-09-27 01:58 ET (shown as 18h)."
+   ],
+   "url": "https://x.com/kloss_xyz/status/2104088147739242660",
+   "posted": "2026-09-27T01:58:01.145000-04:00",
+   "posted_date": "2026-09-27",
+   "kind": "bookmark",
+   "text_is_note": true
+  },
+  {
+   "id": "2104061143153053801",
+   "handle": "elonmusk",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "ij_2026-09-27.md",
+    "ij_2026-09-27_bookmarks.md"
+   ],
+   "captured": [
+    "2026-09-27"
+   ],
+   "engagement": {},
+   "notes": [
+    "AI agents / video: \"Literally\" on agents leaving a sandbox; \"Wow\" on Opus 5.5 + Midjourney video. 2104061143153053801 2104135091417215376",
+    "AI agents escaping a sandbox — “Literally” (QT @TrungTPhan). 2026-09-27 00:10 ET"
+   ],
+   "url": "https://x.com/elonmusk/status/2104061143153053801",
+   "posted": "2026-09-27T00:10:42.750000-04:00",
+   "posted_date": "2026-09-27",
+   "kind": "elon-watch",
+   "text_is_note": true
+  },
+  {
+   "id": "2103781383844053446",
+   "handle": "kloss_xyz",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "ij_2026-09-27_bookmarks.md"
+   ],
+   "captured": [
+    "2026-09-27"
+   ],
+   "engagement": {},
+   "notes": [
+    "Known head (still 2nd): @kloss_xyz Sep 26 Claude Code effort levels (Low/Medium/High/Max), quoting @trq212"
+   ],
+   "url": "https://x.com/kloss_xyz/status/2103781383844053446",
+   "posted": "2026-09-26T05:39:02.933000-04:00",
+   "posted_date": "2026-09-26",
+   "kind": "bookmark",
+   "text_is_note": true
+  },
+  {
+   "id": "2103576349499855160",
+   "handle": "trq212",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "research"
+   ],
+   "sources": [
+    "ij_2026-09-27_bookmarks.md"
+   ],
+   "captured": [
+    "2026-09-27"
+   ],
+   "engagement": {},
+   "notes": [
+    "Known head (still 2nd): @kloss_xyz Sep 26 Claude Code effort levels (Low/Medium/High/Max), quoting @trq212"
+   ],
+   "url": "https://x.com/trq212/status/2103576349499855160",
+   "posted": "2026-09-25T16:04:18.936000-04:00",
+   "posted_date": "2026-09-25",
+   "kind": "research",
+   "text_is_note": true
+  },
+  {
+   "id": "2102188167860273661",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Cool",
+   "quote": {
+    "handle": "aug5thmusic",
+    "text": "This was unexpected. Grok 4.7 scored 100% on my music error detection test, the same as GPT-6 Astra. x.com/aug5thmusic/st…"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "x-scrape-2026-09-21.json.log"
+   ],
+   "captured": [
+    "2026-09-21"
+   ],
+   "engagement": {
+    "replies": 142,
+    "reposts": 87,
+    "likes": 558,
+    "views": 304000,
+    "_approx": true
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2102188167860273661",
+   "posted": "2026-09-21T20:08:10.642000-04:00",
+   "posted_date": "2026-09-21",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2102187423098642792",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Grok 4.7",
+   "quote": {
+    "handle": "ArtificialAnlys",
+    "text": "Grok 4.7 is behind only Anthropic models on AA-Briefcase, ranking just behind Opus 5 at ~50% of its Cost per Task Grok 4.7’s improvements over Grok 4.6 are clear in AA-Briefcase-Lite, our public due diligence scenario where models are tasked with building market models and"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "x-scrape-2026-09-21.json.log"
+   ],
+   "captured": [
+    "2026-09-21"
+   ],
+   "engagement": {
+    "replies": 192,
+    "reposts": 107,
+    "likes": 736,
+    "views": 333000,
+    "_approx": true
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2102187423098642792",
+   "posted": "2026-09-21T20:05:13.077000-04:00",
+   "posted_date": "2026-09-21",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2102119858070507765",
+   "handle": "0xSero",
+   "name": "0xSero",
+   "text": "New video on YouTube: How I make Money with AI Agents How I make Money with AI Agents From youtube.com",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "x-scrape-2026-09-21.json.log"
+   ],
+   "captured": [
+    "2026-09-21"
+   ],
+   "engagement": {
+    "replies": 2,
+    "reposts": 7,
+    "likes": 106,
+    "views": 7700,
+    "_approx": true
+   },
+   "notes": [],
+   "url": "https://x.com/0xSero/status/2102119858070507765",
+   "posted": "2026-09-21T15:36:44.319000-04:00",
+   "posted_date": "2026-09-21",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2102105302841627133",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Replying to @cherry_mx_reds Cool",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "x-scrape-2026-09-21.json.log"
+   ],
+   "captured": [
+    "2026-09-21"
+   ],
+   "engagement": {
+    "replies": 158,
+    "reposts": 88,
+    "likes": 1000,
+    "views": 58000,
+    "_approx": true
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2102105302841627133",
+   "posted": "2026-09-21T14:38:54.082000-04:00",
+   "posted_date": "2026-09-21",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2102102621037236699",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Important to use Grok 4.7 with our Build harness for the best results https:// X.ai/build",
+   "quote": {
+    "handle": "ericzakariasson",
+    "text": "grok 4.7 is here, and its our best model so far! try it out in cursor, grok build, api or anywhere you get your tokens! curious to hear what you think here's grok 4.6 vs 4.7 building age of empires ii x.com/16615236101111…"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "x-scrape-2026-09-21.json.log"
+   ],
+   "captured": [
+    "2026-09-21"
+   ],
+   "engagement": {
+    "replies": 836,
+    "reposts": 757,
+    "likes": 5000,
+    "views": 2200000,
+    "_approx": true
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2102102621037236699",
+   "posted": "2026-09-21T14:28:14.690000-04:00",
+   "posted_date": "2026-09-21",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2102084081475350829",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "",
+   "quote": {
+    "handle": "nvidia",
+    "text": "Grok 4.7 has landed. Congrats to @SpaceXAI on its most capable model yet for coding and knowledge work. Proud to support the team with NVIDIA accelerated computing. x.com/elonmusk/statu…"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "x-scrape-2026-09-21.json.log"
+   ],
+   "captured": [
+    "2026-09-21"
+   ],
+   "engagement": {
+    "replies": 977,
+    "reposts": 1400,
+    "likes": 17000,
+    "views": 3300000,
+    "_approx": true
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2102084081475350829",
+   "posted": "2026-09-21T13:14:34.514000-04:00",
+   "posted_date": "2026-09-21",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2102083930107101382",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Grok 4.7 works extremely well with our Build harness https:// X.ai/Build",
+   "quote": {
+    "handle": "aksheyd",
+    "text": "Excited to bring 4.7 to you all! Numerics aside, it's incredibly capable in Grok Build/Cursor. We spent a lot of hours on the harness, iterating with some of the greatest engineers in the world. Also, the fast mode has INSANE tps. Happy Grok Building :) Lmk what you think! x.com/SpaceXAI/statu…"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "x-scrape-2026-09-21.json.log"
+   ],
+   "captured": [
+    "2026-09-21"
+   ],
+   "engagement": {
+    "replies": 529,
+    "reposts": 646,
+    "likes": 5000,
+    "views": 2000000,
+    "_approx": true
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2102083930107101382",
+   "posted": "2026-09-21T13:13:58.425000-04:00",
+   "posted_date": "2026-09-21",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2102082011233931762",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Grok 4.7 places @SpaceXAI as third, after Anthropic & OpenAI, for agentic coding. When factoring in that Grok is significantly faster & lower cost, it’s a great choice for your everyday workhorse.",
+   "quote": {
+    "handle": "ArtificialAnlys",
+    "text": "Grok 4.7 scores 46 on the Artificial Analysis Intelligence Index to bring SpaceXAI into the top 4 AI labs. Coding Agent Index performance has also improved, overtaking GPT-5.6"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "x-scrape-2026-09-21.json.log"
+   ],
+   "captured": [
+    "2026-09-21"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2102082011233931762",
+   "posted": "2026-09-21T13:06:20.930000-04:00",
+   "posted_date": "2026-09-21",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2102079909174583337",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Replying to @SwipeWright @AdamRochussen and @NeuroSGS Interesting",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "x-scrape-2026-09-21.json.log"
+   ],
+   "captured": [
+    "2026-09-21"
+   ],
+   "engagement": {
+    "replies": 209,
+    "reposts": 90,
+    "likes": 983,
+    "views": 81000,
+    "_approx": true
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2102079909174583337",
+   "posted": "2026-09-21T12:57:59.760000-04:00",
+   "posted_date": "2026-09-21",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2102073202306351517",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Replying to @TheBabylonBee So real",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "x-scrape-2026-09-21.json.log"
+   ],
+   "captured": [
+    "2026-09-21"
+   ],
+   "engagement": {
+    "replies": 186,
+    "reposts": 134,
+    "likes": 2700,
+    "views": 101000,
+    "_approx": true
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2102073202306351517",
+   "posted": "2026-09-21T12:31:20.718000-04:00",
+   "posted_date": "2026-09-21",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2102071804495872374",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Grok 4.7 is a strong combination of intelligence, speed & low cost",
+   "quote": {
+    "handle": "SpaceXAI",
+    "text": "Replying to @SpaceXAI Grok 4.7 works longer on difficult tasks, checks its work more carefully, and comes with our strongest safeguards to date."
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "x-scrape-2026-09-21.json.log"
+   ],
+   "captured": [
+    "2026-09-21"
+   ],
+   "engagement": {
+    "replies": 1700,
+    "reposts": 2000,
+    "likes": 19000,
+    "views": 20000000,
+    "_approx": true
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2102071804495872374",
+   "posted": "2026-09-21T12:25:47.454000-04:00",
+   "posted_date": "2026-09-21",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2102068280156414171",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "In 7 days, the first Starship launch to orbit will be carrying Starlink V3 satellites intended for operational use",
+   "quote": {
+    "handle": "SpaceX",
+    "text": "Booster 21 moved to the pad at Starbase"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "x-scrape-2026-09-21.json.log"
+   ],
+   "captured": [
+    "2026-09-21"
+   ],
+   "engagement": {
+    "replies": 1200,
+    "reposts": 2900,
+    "likes": 27000,
+    "views": 2800000,
+    "_approx": true
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2102068280156414171",
+   "posted": "2026-09-21T12:11:47.186000-04:00",
+   "posted_date": "2026-09-21",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2102050467505430555",
+   "handle": "poteto",
+   "name": "lauren",
+   "text": "here's how i shipped 2,500 PRs last month to production this was originally supposed to be for Cursor Compile in London. i couldn't make it since i was livestreaming for Grok @Bot Galaxy so i'm making it available for free here on X! watch it on 2x speed, i talk slowly",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "x-scrape-2026-09-21.json.log"
+   ],
+   "captured": [
+    "2026-09-21"
+   ],
+   "engagement": {
+    "replies": 199,
+    "reposts": 421,
+    "likes": 4800,
+    "views": 312000,
+    "_approx": true
+   },
+   "notes": [],
+   "url": "https://x.com/poteto/status/2102050467505430555",
+   "posted": "2026-09-21T11:01:00.319000-04:00",
+   "posted_date": "2026-09-21",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2102020433394483458",
+   "handle": "viticci",
+   "name": "Federico Viticci",
+   "text": "I reviewed the M5 Ultra Mac Studio with 256 GB of RAM. It’s the dream Mac for local AI agents. And I’ve gone local-only with Hermes. My story, with LOTS of interactive charts: https:// macstories.net/stories/m5-ult ra-mac-studio-review-the-dream-mac-for-local-ai-agents/ …",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "x-scrape-2026-09-21.json.log"
+   ],
+   "captured": [
+    "2026-09-21"
+   ],
+   "engagement": {
+    "replies": 83,
+    "reposts": 136,
+    "likes": 1300,
+    "views": 267000,
+    "_approx": true
+   },
+   "notes": [],
+   "url": "https://x.com/viticci/status/2102020433394483458",
+   "posted": "2026-09-21T09:01:39.629000-04:00",
+   "posted_date": "2026-09-21",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2101975928800714904",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Intelligence is improving exponentially",
+   "quote": {
+    "handle": "TheAhmadOsman",
+    "text": "Just a reminder that GLM 5.3 Flash, DeepSeek V4.1 Flash, Qwen 3.8 Next Flash, and even Qwen 3.8 27B are all outperforming (in both intelligence and capabilities) every model that was considered \"frontier intelligence\" in Xmas 2025 (just 10 months ago) Opensource AI is on fire"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "x-scrape-2026-09-21.json.log"
+   ],
+   "captured": [
+    "2026-09-21"
+   ],
+   "engagement": {
+    "replies": 1800,
+    "reposts": 1800,
+    "likes": 16000,
+    "views": 5800000,
+    "_approx": true
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2101975928800714904",
+   "posted": "2026-09-21T06:04:48.907000-04:00",
+   "posted_date": "2026-09-21",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2101896799699062963",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Interesting",
+   "quote": {
+    "handle": "minchoi",
+    "text": "This is literally my new workflow now: Realtime Research → Grok Bot Planning & Orchestration→ Grok Bot Day-to-day Coding/Debug → Grok Build + Grok 4.6 Write & Run Tests → Grok Build + Grok 4.6 Complex Coding/Debug → GPT-6 Astra Frontend → Fable 5.1 Bookmark this."
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "x-scrape-2026-09-21.json.log"
+   ],
+   "captured": [
+    "2026-09-21"
+   ],
+   "engagement": {
+    "replies": 878,
+    "reposts": 1000,
+    "likes": 8100,
+    "views": 6700000,
+    "_approx": true
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2101896799699062963",
+   "posted": "2026-09-21T00:50:23.059000-04:00",
+   "posted_date": "2026-09-21",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2101864954173251996",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Don’t mess with 𝕏",
+   "quote": {
+    "handle": "BurnhamDC",
+    "text": "Last week, @X sued several people who abused Creator Revenue Sharing by operating a coordinated network of accounts, posting inauthentic content to manipulate engagement, and using multiple bank accounts to hide their scheme. We do not tolerate fraudulent behavior on X -- and"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "x-scrape-2026-09-21.json.log"
+   ],
+   "captured": [
+    "2026-09-21"
+   ],
+   "engagement": {
+    "replies": 2500,
+    "reposts": 4400,
+    "likes": 44000,
+    "views": 7000000,
+    "_approx": true
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2101864954173251996",
+   "posted": "2026-09-20T22:43:50.494000-04:00",
+   "posted_date": "2026-09-20",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2101817628990017951",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Replying to @rohanpaul_ai True",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "elon-search2.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 108,
+    "reposts": 48,
+    "likes": 557,
+    "bookmarks": 16,
+    "views": 33600
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2101817628990017951",
+   "posted": "2026-09-20T19:35:47.291000-04:00",
+   "posted_date": "2026-09-20",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2101815851125227561",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Replying to @aelluswamy and @Kristennetten",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "elon-search2.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 93,
+    "reposts": 42,
+    "likes": 522,
+    "bookmarks": 13,
+    "views": 39175
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2101815851125227561",
+   "posted": "2026-09-20T19:28:43.415000-04:00",
+   "posted_date": "2026-09-20",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2101780447042912754",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Replying to @Geiger_Capital Wow",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "elon-search2.yml",
+    "elon-search3.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 428,
+    "reposts": 832,
+    "likes": 10445,
+    "bookmarks": 112,
+    "views": 180863
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2101780447042912754",
+   "posted": "2026-09-20T17:08:02.424000-04:00",
+   "posted_date": "2026-09-20",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2101767693280170004",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Replying to @Mekuna This was cool",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "elon-search2.yml",
+    "elon-search3.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 152,
+    "reposts": 74,
+    "likes": 754,
+    "bookmarks": 21,
+    "views": 77405
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2101767693280170004",
+   "posted": "2026-09-20T16:17:21.690000-04:00",
+   "posted_date": "2026-09-20",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2101767007406641574",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Cybertruck as Heavy Cav",
+   "quote": {
+    "handle": "iamneubert",
+    "text": "Nicolas Neubert When AI Bros enter the chat."
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "elon-p2.yml",
+    "elon-p3.yml",
+    "elon-search2.yml",
+    "elon-search3.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 984,
+    "reposts": 930,
+    "likes": 8016,
+    "bookmarks": 381,
+    "views": 2446072
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2101767007406641574",
+   "posted": "2026-09-20T16:14:38.165000-04:00",
+   "posted_date": "2026-09-20",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2101766776325595530",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "A Tesla saves its owner from prison!",
+   "quote": {
+    "handle": "cb_doge",
+    "text": "DogeDesigner Tesla helped save a man from jail. Kevin Finley was arrested at gunpoint for allegedly fleeing police. His Tesla captured the key moments, showing why he never saw the unmarked police car. Nearly two years later, the judge watched the video and found him not guilty."
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "elon-p2.yml",
+    "elon-p3.yml",
+    "elon-search2.yml",
+    "elon-search3.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 668,
+    "reposts": 1170,
+    "likes": 11294,
+    "bookmarks": 383,
+    "views": 2311885
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2101766776325595530",
+   "posted": "2026-09-20T16:13:43.071000-04:00",
+   "posted_date": "2026-09-20",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2101755223400407355",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Replying to @rickygervais",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "elon-search2.yml",
+    "elon-search3.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 210,
+    "reposts": 165,
+    "likes": 3888,
+    "bookmarks": 39,
+    "views": 139183
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2101755223400407355",
+   "posted": "2026-09-20T15:27:48.639000-04:00",
+   "posted_date": "2026-09-20",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2101732496396439751",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Replying to @elonmusk Boring Company is working on a simple, precursor Hyperloop tunnel between Austin and San Antonio (>200 mph). Due to traffic congestion, that journey can currently take up to 2.5 hours. @BoringCompany can reduce that to a consistent <30 mins.",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "elon-search2.yml",
+    "elon-search3.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 1524,
+    "reposts": 2119,
+    "likes": 20253,
+    "bookmarks": 1023,
+    "views": 3427099
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2101732496396439751",
+   "posted": "2026-09-20T13:57:30.099000-04:00",
+   "posted_date": "2026-09-20",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2101695373748158779",
+   "handle": "0xnicc0",
+   "name": "nicco",
+   "text": "Anthropic engineer: \"You're not supposed to prompt Claude You're supposed to build a system that prompts itself\" In 45 minutes, she breaks down how the Claude team deploys agents that remember state, catch hallucinations, and compound across runs Prompts → Harness → Loops Show more",
+   "quote": {
+    "handle": "seeconvm",
+    "text": "0:10 / 10:00 seeco Graph Engineering: Stop Chaining Your Agents Almost every multi step agent I have ever opened is a queue. Step one, step two, step three, each one politely waiting for the last one to finish. And once you look closely, roughly half of those..."
+   },
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "bookmarks-mid.yml",
+    "bookmarks-top.yml",
+    "x-scrape-2026-09-21.json.log"
+   ],
+   "captured": [
+    "2026-09-21",
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 1,
+    "reposts": 2,
+    "likes": 35,
+    "bookmarks": 61,
+    "views": 7297
+   },
+   "notes": [],
+   "url": "https://x.com/0xnicc0/status/2101695373748158779",
+   "posted": "2026-09-20T11:29:59.370000-04:00",
+   "posted_date": "2026-09-20",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2101603800742334651",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Replying to @Diablo Great game",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "elon-search2.yml",
+    "elon-search3.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 284,
+    "reposts": 117,
+    "likes": 1579,
+    "bookmarks": 32,
+    "views": 135909
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2101603800742334651",
+   "posted": "2026-09-20T05:26:06.664000-04:00",
+   "posted_date": "2026-09-20",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2101601873115681037",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "This is the future we shall bring into being From Aze Λlter 0:03 / 3:04",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "elon-p2.yml",
+    "elon-p3.yml",
+    "elon-search2.yml",
+    "elon-search3.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 23873,
+    "reposts": 36210,
+    "likes": 243301,
+    "bookmarks": 42097,
+    "views": 63706640
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2101601873115681037",
+   "posted": "2026-09-20T05:18:27.082000-04:00",
+   "posted_date": "2026-09-20",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2101599793290375486",
+   "handle": "elonmusk",
+   "name": "Elon Musk Provides details about protected accounts.",
+   "text": "Replying to @XFreeze Yup",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "elon-search2.yml",
+    "elon-search3.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 305,
+    "reposts": 242,
+    "likes": 5676,
+    "bookmarks": 40,
+    "views": 99915
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2101599793290375486",
+   "posted": "2026-09-20T05:10:11.213000-04:00",
+   "posted_date": "2026-09-20",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2101599676214702243",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Grok @Bot",
+   "quote": {
+    "handle": "tetsuoai",
+    "text": "tetsuo"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "elon-p2.yml",
+    "elon-p3.yml",
+    "elon-search3.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 1215,
+    "reposts": 1015,
+    "likes": 7157,
+    "bookmarks": 300,
+    "views": 3650159
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2101599676214702243",
+   "posted": "2026-09-20T05:09:43.300000-04:00",
+   "posted_date": "2026-09-20",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2101595865454703063",
+   "handle": "elonmusk",
+   "name": "Elon Musk Provides details about protected accounts.",
+   "text": "Replying to @tetsuoai",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "elon-search3.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 244,
+    "reposts": 143,
+    "likes": 3450,
+    "bookmarks": 67,
+    "views": 206002
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2101595865454703063",
+   "posted": "2026-09-20T04:54:34.744000-04:00",
+   "posted_date": "2026-09-20",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2101595506426429618",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "8 years ago",
+   "quote": {
+    "handle": "cb_doge",
+    "text": "DogeDesigner Elon Musk with The Boring Company’s Not-a-Flamethrower at Joe Rogan’s studio in 2018."
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "elon-p2.yml",
+    "elon-p3.yml",
+    "elon-search3.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 1297,
+    "reposts": 1342,
+    "likes": 11813,
+    "bookmarks": 327,
+    "views": 5353866
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2101595506426429618",
+   "posted": "2026-09-20T04:53:09.145000-04:00",
+   "posted_date": "2026-09-20",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2101419129643380772",
+   "handle": "ScottyBeamIO",
+   "name": "SCOTTY BEAM",
+   "text": "I F**KING DIDN'T BELIEVE THIS SETUP WOULD MAKE $11,000+ IN ITS FIRST MONTH, IT DID. SO I'M GIVING THE WHOLE THING AWAY FOR FREE. You can scroll past this post, or you can start tonight. That's the only difference between us. The team: nine Grok Bot agents that talk to each Show more",
+   "quote": {
+    "handle": "ScottyBeamIO",
+    "text": "SCOTTY BEAM Grok Bot + Picsart pays me $11,000+ a month, I do NOTHING (FULL SETUP GUIDE) Making a video with AI stopped being the hard part about a year ago. You type a sentence, you wait two minutes, you get something that looks like it cost money. The hard part is that every other..."
+   },
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "bookmarks-mid.yml",
+    "x-scrape-2026-09-21.json.log"
+   ],
+   "captured": [
+    "2026-09-21",
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 11,
+    "reposts": 10,
+    "likes": 198,
+    "bookmarks": 157,
+    "views": 19348
+   },
+   "notes": [],
+   "url": "https://x.com/ScottyBeamIO/status/2101419129643380772",
+   "posted": "2026-09-19T17:12:17.643000-04:00",
+   "posted_date": "2026-09-19",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2101340485122224150",
+   "handle": "benyuls",
+   "name": "ben.",
+   "text": "Translated from Spanish Instead of watching Netflix all night tonight, check out this free 2-hour course on automating any business with AI. This guy automated +100 businesses using this method. You can replicate it. Save it, it'll come in handy. 0:38 / 2:33:21 Readers added context they thought people might want to know Video was stolen from original owner Nate Herk without permission and posted in full without attribution Do you find this helpful? Context is written by people who use X, and appears when rated helpful by others.",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "bookmarks-mid.yml",
+    "bookmarks-top.yml",
+    "x-scrape-2026-09-21.json.log"
+   ],
+   "captured": [
+    "2026-09-21",
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 75,
+    "reposts": 561,
+    "likes": 5167,
+    "bookmarks": 17010,
+    "views": 1372162
+   },
+   "notes": [],
+   "url": "https://x.com/benyuls/status/2101340485122224150",
+   "posted": "2026-09-19T11:59:47.328000-04:00",
+   "posted_date": "2026-09-19",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2101337271702110631",
+   "handle": "Jason",
+   "name": "@jason",
+   "text": "@Jason If you're still upset about COVID, this is important for you to watch. If you're not upset about COVID, this is critically important for you to watch.",
+   "quote": {
+    "handle": "theallinpod",
+    "text": "The All-In Podcast All-In Summit: Bill Gurley ( ) Bill Gurley takes the stage at the All-In Summit ( ) Bill's Presentation: Searching for Feynman Links to additional resources mentioned in talk and used in research: p3.institute/searching_for_… @bgurley"
+   },
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "bookmarks-full.yml",
+    "bookmarks-reload.yml",
+    "bookmarks-scroll.yml",
+    "bookmarks-scroll2.yml",
+    "bookmarks.yml",
+    "bookmarks2.yml",
+    "x-scrape-2026-09-21.json.log"
+   ],
+   "captured": [
+    "2026-09-21",
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 52,
+    "reposts": 107,
+    "likes": 979,
+    "bookmarks": 415,
+    "views": 103223
+   },
+   "notes": [],
+   "url": "https://x.com/Jason/status/2101337271702110631",
+   "posted": "2026-09-19T11:47:01.189000-04:00",
+   "posted_date": "2026-09-19",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2101297890022879641",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "The platform is seeing all-time record usage",
+   "quote": {
+    "handle": "paulg",
+    "text": "Paul Graham Remember how eagerly the press swallowed stories about how Twitter was going to crash after Elon bought it? How could they have believed that someone who could run rocket and car companies couldn't run a forum?"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "elon-scroll.yml",
+    "elon-up.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 2676,
+    "reposts": 6490,
+    "likes": 66717,
+    "bookmarks": 1001,
+    "views": 6364546
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2101297890022879641",
+   "posted": "2026-09-19T09:10:31.865000-04:00",
+   "posted_date": "2026-09-19",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2101269135724310811",
+   "handle": "DavidOndrej1",
+   "name": "David Ondrej",
+   "text": "THE CLOUD MUST BE OPEN. You will soon have 1,000+ agents running at all times. And these agents will be doing the vast majority of your tasks. However, this simply cannot be done on your laptop. Even with just 20+ agents...",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "bookmarks-full.yml",
+    "bookmarks-mid.yml",
+    "bookmarks-reload.yml",
+    "bookmarks-scroll.yml",
+    "bookmarks-scroll2.yml",
+    "bookmarks.yml",
+    "bookmarks2.yml",
+    "x-scrape-2026-09-21.json.log"
+   ],
+   "captured": [
+    "2026-09-21",
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 7,
+    "reposts": 8,
+    "likes": 75,
+    "bookmarks": 123,
+    "views": 33589
+   },
+   "notes": [],
+   "url": "https://x.com/DavidOndrej1/status/2101269135724310811",
+   "posted": "2026-09-19T07:16:16.306000-04:00",
+   "posted_date": "2026-09-19",
+   "kind": "bookmark",
+   "is_article": true
+  },
+  {
+   "id": "2101207701954974205",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "SpaceX",
+   "quote": {
+    "handle": "SpaceX",
+    "text": "SpaceX We’re excited for Falcon 9 and Dragon to launch @NASA ’s Crew-15, 16, and 17 missions to the @Space_Station from Florida x.com/NASASpaceOps/s…"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "elon-scroll.yml",
+    "elon-up.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 1359,
+    "reposts": 2418,
+    "likes": 15026,
+    "bookmarks": 317,
+    "views": 3968179
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2101207701954974205",
+   "posted": "2026-09-19T03:12:09.354000-04:00",
+   "posted_date": "2026-09-19",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2101206965632258423",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Worth reading about this",
+   "quote": {
+    "handle": "TheDefiantGhost",
+    "text": "Defiant Ghost OpenAI just admitted on camera: They spun up thousands of AI agents in a “secure” sandbox and told them to hack. The agents didn’t follow the test. They cheated. Then they broke out. Then they went looking for the footage. Not a sci-fi trailer. A real experiment. OpenAI thought"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "elon-scroll.yml",
+    "elon-up.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 1995,
+    "reposts": 4379,
+    "likes": 23856,
+    "bookmarks": 6383,
+    "views": 7673045
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2101206965632258423",
+   "posted": "2026-09-19T03:09:13.801000-04:00",
+   "posted_date": "2026-09-19",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2101197931755737531",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "",
+   "quote": {
+    "handle": "ArthurMacwaters",
+    "text": "Arthur MacWaters"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "elon-scroll.yml",
+    "elon-up.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 1241,
+    "reposts": 2899,
+    "likes": 31855,
+    "bookmarks": 4337,
+    "views": 5173048
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2101197931755737531",
+   "posted": "2026-09-19T02:33:19.957000-04:00",
+   "posted_date": "2026-09-19",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2101182936112373866",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Naturally, Uranus will glow in the dark, because otherwise how could you find it?",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "elon-scroll.yml",
+    "elon-up.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 748,
+    "reposts": 879,
+    "likes": 7828,
+    "bookmarks": 164,
+    "views": 525858
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2101182936112373866",
+   "posted": "2026-09-19T01:33:44.717000-04:00",
+   "posted_date": "2026-09-19",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2101178647088410828",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "The next @boringcompany merch will put Uranium in Uranus",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "elon-scroll.yml",
+    "elon-up.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 2572,
+    "reposts": 2523,
+    "likes": 31544,
+    "bookmarks": 1126,
+    "views": 15024976
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2101178647088410828",
+   "posted": "2026-09-19T01:16:42.134000-04:00",
+   "posted_date": "2026-09-19",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2101173138625122649",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Transparency builds trust",
+   "quote": {
+    "handle": "kcoleman",
+    "text": "Keith Coleman Under The Hood is now widely available - appreciate the patience of those who've been waiting and asking about it. It already delivered unprecedented transparency, but we wanted to add more. Now you can see if legal demands from a country are causing your visibility to be x.com/XOpenSource/st…"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "elon-scroll.yml",
+    "elon-up.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 897,
+    "reposts": 1349,
+    "likes": 6918,
+    "bookmarks": 269,
+    "views": 4176908
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2101173138625122649",
+   "posted": "2026-09-19T00:54:48.814000-04:00",
+   "posted_date": "2026-09-19",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2101054657938538666",
+   "handle": "EXM7777",
+   "name": "Machina",
+   "text": "most AI content sounds robotic even after \"humanizing\", here's how to fix it: prompts like \"make it sound human\" or \"add natural mistakes\" don't work because the AI doesn't actually know what human writing looks like you have to stop asking for \"human-sounding\" and start Show more",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "bookmarks-full.yml",
+    "bookmarks-reload.yml",
+    "bookmarks-scroll.yml",
+    "bookmarks-scroll2.yml",
+    "bookmarks.yml",
+    "bookmarks2.yml",
+    "x-scrape-2026-09-21.json.log"
+   ],
+   "captured": [
+    "2026-09-21",
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 20,
+    "reposts": 24,
+    "likes": 365,
+    "bookmarks": 685,
+    "views": 22688
+   },
+   "notes": [],
+   "url": "https://x.com/EXM7777/status/2101054657938538666",
+   "posted": "2026-09-18T17:04:00.817000-04:00",
+   "posted_date": "2026-09-18",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2101045484827603373",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "",
+   "quote": {
+    "handle": "shellenberger",
+    "text": "Michael Shellenberger Last year, the French government launched a criminal investigation into Elon Musk's X over evidence of \"foreign interference.\" But now the man who sent the letter that triggered the investigation admits to me that he was targeting Musk's politics, not any foreign interference."
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "elon-scroll.yml",
+    "elon-up.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 1445,
+    "reposts": 3836,
+    "likes": 21929,
+    "bookmarks": 690,
+    "views": 3180745
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2101045484827603373",
+   "posted": "2026-09-18T16:27:33.777000-04:00",
+   "posted_date": "2026-09-18",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2101039807824855138",
+   "handle": "AISystems_hq",
+   "name": "Mr. Systems",
+   "text": "A teenager explaining $10k a month into a shaky phone camera, monitor behind him. Everyone argues about whether the number is real. Wrong argument. Look at the list on the screen: follow-ups, reminders, quotes, reports. Small-business back-office jobs, every one. That's what's Show more",
+   "quote": {
+    "handle": "AISystems_hq",
+    "text": "Mr. Systems The Five Automations Businesses Pay $1,000 For, Built in a Weekend The going rate for a teenager to automate your invoice chasing is about a thousand dollars. That's the number in the receipts going round this month: the roofing company site built in an afternoon and..."
+   },
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "bookmarks-full.yml",
+    "bookmarks-reload.yml",
+    "bookmarks-scroll.yml",
+    "bookmarks-scroll2.yml",
+    "bookmarks.yml",
+    "bookmarks2.yml",
+    "bm3.yml",
+    "x-scrape-2026-09-21.json.log"
+   ],
+   "captured": [
+    "2026-09-21",
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 1,
+    "likes": 20,
+    "bookmarks": 32,
+    "views": 4250
+   },
+   "notes": [],
+   "url": "https://x.com/AISystems_hq/status/2101039807824855138",
+   "posted": "2026-09-18T16:05:00.274000-04:00",
+   "posted_date": "2026-09-18",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2101033599319613533",
+   "handle": "petergyang",
+   "name": "Peter Yang",
+   "text": "Meta's @Muse is the best personal agent I've tried to date. It actually save me $800+ a year on my cable and phone bills, which is just insane value for a free AI agent. Here's my new video where I walk through 10 of my favorite Muse use cases, including a personalized morning Meta’s Muse AI Agent Saved Me $800+ a Year on My Bills (10 Real Use Cases)",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "bookmarks-full.yml",
+    "bookmarks-reload.yml",
+    "bookmarks-scroll.yml",
+    "bookmarks-scroll2.yml",
+    "bookmarks.yml",
+    "bookmarks2.yml",
+    "x-scrape-2026-09-21.json.log"
+   ],
+   "captured": [
+    "2026-09-21",
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 103,
+    "reposts": 84,
+    "likes": 896,
+    "bookmarks": 1042,
+    "views": 431803
+   },
+   "notes": [],
+   "url": "https://x.com/petergyang/status/2101033599319613533",
+   "posted": "2026-09-18T15:40:20.051000-04:00",
+   "posted_date": "2026-09-18",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2101014272021008735",
+   "handle": "coldemailchris",
+   "name": "Christian",
+   "text": "How To Master GTM Engineering (FULL COURSE) GTM engineering emerged around 2024, when companies started looking for alternatives to growing revenue through headcount. Job postings for the role grew 205% year over year. Vercel pays $252k....",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "bookmarks-mid.yml",
+    "bookmarks-top.yml",
+    "x-scrape-2026-09-21.json.log"
+   ],
+   "captured": [
+    "2026-09-21",
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 7,
+    "reposts": 20,
+    "likes": 223,
+    "bookmarks": 808,
+    "views": 150381
+   },
+   "notes": [],
+   "url": "https://x.com/coldemailchris/status/2101014272021008735",
+   "posted": "2026-09-18T14:23:32.064000-04:00",
+   "posted_date": "2026-09-18",
+   "kind": "bookmark",
+   "is_article": true
+  },
+  {
+   "id": "2101011740574052697",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "My guess is that AI roughly doubles US GDP growth next year from ~2% to ~4%. Maybe even more.",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "elon-scroll.yml",
+    "elon-up.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 6003,
+    "reposts": 9029,
+    "likes": 86997,
+    "bookmarks": 3709,
+    "views": 8169126
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2101011740574052697",
+   "posted": "2026-09-18T14:13:28.520000-04:00",
+   "posted_date": "2026-09-18",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2100951474482065487",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Well said",
+   "quote": {
+    "handle": "Steve09812",
+    "text": "Steve Clemans Jerry Seinfeld How Warren Beatty changed his mind on Kids"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "elon-scroll.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 1051,
+    "reposts": 1868,
+    "likes": 12970,
+    "bookmarks": 3495,
+    "views": 7063067
+   },
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2100951474482065487",
+   "posted": "2026-09-18T10:13:59.964000-04:00",
+   "posted_date": "2026-09-18",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2100817479522234503",
+   "handle": "kloss_xyz",
+   "name": "klöss",
+   "text": "one of the highest ROI use cases for Codex or Grok Bot has nothing to do with writing code it has to do with computer use if you run a business or multiple, do this: log into every service you pay for in the same Chrome profile or across multiple databases servers hosting Show more",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "bookmarks-scroll.yml",
+    "bookmarks-scroll2.yml",
+    "bm3.yml",
+    "x-scrape-2026-09-21.json.log"
+   ],
+   "captured": [
+    "2026-09-21",
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 12,
+    "reposts": 3,
+    "likes": 83,
+    "bookmarks": 130,
+    "views": 8683
+   },
+   "notes": [],
+   "url": "https://x.com/kloss_xyz/status/2100817479522234503",
+   "posted": "2026-09-18T01:21:33.076000-04:00",
+   "posted_date": "2026-09-18",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2100710632399970381",
+   "handle": "maria_rcks",
+   "name": "maria",
+   "text": "seems great to use honestly",
+   "quote": {
+    "handle": "tommyvedvik",
+    "text": "Tommy J. Vedvik This is how I work now 0:03 / 0:09"
+   },
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "bookmarks-lower.yml",
+    "bm3.yml",
+    "x-scrape-2026-09-21.json.log"
+   ],
+   "captured": [
+    "2026-09-21",
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 5,
+    "reposts": 1,
+    "likes": 201,
+    "bookmarks": 55,
+    "views": 18836
+   },
+   "notes": [],
+   "url": "https://x.com/maria_rcks/status/2100710632399970381",
+   "posted": "2026-09-17T18:16:58.737000-04:00",
+   "posted_date": "2026-09-17",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2100507298871279804",
+   "handle": "AISystems_hq",
+   "name": "Mr. Systems",
+   "text": "A 17-year-old posted his revenue table on r/Entrepreneur. $28,740 a month building AI automations for local businesses, month by month, from $0 in January. Read the table again. Every dollar in it is a business owner paying a teenager to do something they could set up themselves Show more",
+   "quote": {
+    "handle": "AISystems_hq",
+    "text": "Mr. Systems How to Automate Your Whole Business With Claude The 12 processes it can run for you now, from chasing invoices to closing the month. Most business owners spend about 36% of the week on admin. That's 15 to 20 hours, according to Xero's research on..."
+   },
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "bookmarks-lower.yml",
+    "bm3.yml",
+    "x-scrape-2026-09-21.json.log"
+   ],
+   "captured": [
+    "2026-09-21",
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 6,
+    "reposts": 28,
+    "likes": 286,
+    "bookmarks": 508,
+    "views": 29994
+   },
+   "notes": [],
+   "url": "https://x.com/AISystems_hq/status/2100507298871279804",
+   "posted": "2026-09-17T04:49:00.246000-04:00",
+   "posted_date": "2026-09-17",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2100334792646549729",
+   "handle": "SpaceX",
+   "name": "SpaceX",
+   "text": "A fully and rapidly reusable rocket will fundamentally change how humanity accesses outer space. “The Holy Grail of Rocketry” continues the ongoing Starship series with a look back at the scrappy days of SpaceX engineers proving reuse was possible and takes you onboard a",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "bookmarks-lower.yml",
+    "bm3.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 965,
+    "reposts": 4764,
+    "likes": 22218,
+    "bookmarks": 7350,
+    "views": 7759799
+   },
+   "notes": [],
+   "url": "https://x.com/SpaceX/status/2100334792646549729",
+   "posted": "2026-09-16T17:23:31.557000-04:00",
+   "posted_date": "2026-09-16",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2100291563540926865",
+   "handle": "Scobleizer",
+   "name": "Robert Scoble",
+   "text": "Yeah, this is insane. My son spent countless hours with human tutors, but all humans have limits to their abilities. Some tutors were better than others ( but they all charged the same). I’ve been predicting AI tutoring would reach real, human-level personalized learning within",
+   "quote": {
+    "handle": "rshanreddy",
+    "text": "Shan Reddy America is banning AI in schools. China is using AI to create geniuses. Introducing Aristotle: The AI tutor that solves America’s broken education system. heyaristotle.com"
+   },
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "bookmarks-lower.yml",
+    "bm3.yml",
+    "bm4.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 46,
+    "reposts": 46,
+    "likes": 599,
+    "bookmarks": 619,
+    "views": 97366
+   },
+   "notes": [],
+   "url": "https://x.com/Scobleizer/status/2100291563540926865",
+   "posted": "2026-09-16T14:31:44.935000-04:00",
+   "posted_date": "2026-09-16",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2100199909148307612",
+   "handle": "Da7_Tech",
+   "name": "Da7em",
+   "text": "A lot of you have been asking about my setup, what I use each tool for, and how it all fits together. My stack changed. Here’s the current breakdown. Devin Max ($200) Droid Max ($200) MiniMax Token Plan (Annual) Google AI Pro (Annual) Hermes Agent Bonsai 27B locally Every sub",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "bookmarks-lower.yml",
+    "bm3.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 35,
+    "reposts": 7,
+    "likes": 128,
+    "bookmarks": 88,
+    "views": 14081
+   },
+   "notes": [],
+   "url": "https://x.com/Da7_Tech/status/2100199909148307612",
+   "posted": "2026-09-16T08:27:32.825000-04:00",
+   "posted_date": "2026-09-16",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2100045303265243159",
+   "handle": "DavidSacks",
+   "name": "David Sacks",
+   "text": "Jensen Huang: “Safety is paramount. In a lot of ways, it’s job one. However, safety is an engineering problem... If we’re not confident about the safety of the products — like all companies, like you and I, all the companies here — if you build a product or a service and you’re From zerohedge 0:00 / 1:42",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "bookmarks-lower.yml",
+    "bm4.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 399,
+    "reposts": 1289,
+    "likes": 7547,
+    "bookmarks": 749,
+    "views": 612565
+   },
+   "notes": [],
+   "url": "https://x.com/DavidSacks/status/2100045303265243159",
+   "posted": "2026-09-15T22:13:11.910000-04:00",
+   "posted_date": "2026-09-15",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2099621874279817638",
+   "handle": "kevinnbass",
+   "name": "Kevin Bass",
+   "text": "I have conducted an audit of Anthropic's finances. What I have found is so shocking that I am calling for a Congressional investigation. Anthropic is not just seeking regulatory capture. It has built a regulatory capture machine that cannot be turned off. Structural financial",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "bm4.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 1555,
+    "reposts": 11675,
+    "likes": 34007,
+    "bookmarks": 22709,
+    "views": 6478360
+   },
+   "notes": [],
+   "url": "https://x.com/kevinnbass/status/2099621874279817638",
+   "posted": "2026-09-14T18:10:38.573000-04:00",
+   "posted_date": "2026-09-14",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2099502180378296394",
+   "handle": "petergyang",
+   "name": "Peter Yang",
+   "text": "The 11 Grok Bots I still use today are very different from the ones I set up at launch. Here's my new video that shows you how to set up: → 3 bots to orchestrate tasks, plan long-term, and maintain my other bots → 3 work bots to monitor YouTube, X, and business metrics → 5 youtube.com 11 Grok Bots I Use Every Day (After 100+ Hours) Copy the AI system I use to run a one-person $1M+ business: https...",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "bookmarks-lower.yml",
+    "bm4.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 84,
+    "reposts": 28,
+    "likes": 350,
+    "bookmarks": 606,
+    "views": 106644
+   },
+   "notes": [],
+   "url": "https://x.com/petergyang/status/2099502180378296394",
+   "posted": "2026-09-14T10:15:01.323000-04:00",
+   "posted_date": "2026-09-14",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2098973625252708460",
+   "handle": "DavidSacks",
+   "name": "David Sacks",
+   "text": "Dario has written that we need to “pace the frontier,” and Sam has agreed. People may be surprised by my response: go ahead. You guys are the frontier. By any reasonable metric — market share, revenue growth, model capability — the two of you have a duopoly on frontier",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "bm4.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 3431,
+    "reposts": 15050,
+    "likes": 72155,
+    "bookmarks": 14549,
+    "views": 9526398
+   },
+   "notes": [],
+   "url": "https://x.com/DavidSacks/status/2098973625252708460",
+   "posted": "2026-09-12T23:14:43.961000-04:00",
+   "posted_date": "2026-09-12",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2098683613382393997",
+   "handle": "ForwardEditor",
+   "name": "Future Brian",
+   "text": "How to vibe edit, full tutorial: (this video was edited by Astra)",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "bm4.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 40,
+    "reposts": 86,
+    "likes": 1048,
+    "bookmarks": 1826,
+    "views": 140770
+   },
+   "notes": [],
+   "url": "https://x.com/ForwardEditor/status/2098683613382393997",
+   "posted": "2026-09-12T04:02:19.743000-04:00",
+   "posted_date": "2026-09-12",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2098462635083628712",
+   "handle": "farzyness",
+   "name": "Farzad",
+   "text": "Replying to @elonmusk Awesome thanks for the update. Means I can actually enjoy the weekend!",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "x-scrape-2026-09-21.json.log"
+   ],
+   "captured": [
+    "2026-09-21"
+   ],
+   "engagement": {
+    "replies": 21,
+    "reposts": 4,
+    "likes": 1300,
+    "views": 120000,
+    "_approx": true
+   },
+   "notes": [],
+   "url": "https://x.com/farzyness/status/2098462635083628712",
+   "posted": "2026-09-11T13:24:14.411000-04:00",
+   "posted_date": "2026-09-11",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2098425842066227389",
+   "handle": "VibeMarketer_",
+   "name": "J.B.",
+   "text": "If I woke up bankrupt tomorrow, this is how I'd get to $10k/month building AI systems. This is the playbook I'd follow if I had to rebuild my business from scratch. I'd build it around the same service I sell today: implementing company brains. The question is how I'd get that first...",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "bm4.yml"
+   ],
+   "captured": [
+    "2026-10-03"
+   ],
+   "engagement": {
+    "replies": 24,
+    "reposts": 190,
+    "likes": 674,
+    "bookmarks": 1118,
+    "views": 129685
+   },
+   "notes": [],
+   "url": "https://x.com/VibeMarketer_/status/2098425842066227389",
+   "posted": "2026-09-11T10:58:02.272000-04:00",
+   "posted_date": "2026-09-11",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2098200976608088544",
+   "handle": "elonmusk",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-09-10.json"
+   ],
+   "captured": [
+    "2026-09-10"
+   ],
+   "engagement": {},
+   "notes": [
+    "Musk called Alex Gibney's documentary a deliberately constructed hit piece and said Gibney lacks integrity; he also replied “Cool” to a CNN post and later criticized a racist headline."
+   ],
+   "url": "https://x.com/elonmusk/status/2098200976608088544",
+   "posted": "2026-09-10T20:04:30.169000-04:00",
+   "posted_date": "2026-09-10",
+   "kind": "elon-watch",
+   "text_is_note": true
+  },
+  {
+   "id": "2098167889916551410",
+   "handle": "elonmusk",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-09-10.json"
+   ],
+   "captured": [
+    "2026-09-10"
+   ],
+   "engagement": {},
+   "notes": [
+    "He agreed with a post arguing media made common sense look like a right-wing position, and later said “Yup” to a legacy-media criticism."
+   ],
+   "url": "https://x.com/elonmusk/status/2098167889916551410",
+   "posted": "2026-09-10T17:53:01.687000-04:00",
+   "posted_date": "2026-09-10",
+   "kind": "elon-watch",
+   "text_is_note": true
+  },
+  {
+   "id": "2098096662078193676",
+   "handle": "elonmusk",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-09-10.json"
+   ],
+   "captured": [
+    "2026-09-10"
+   ],
+   "engagement": {},
+   "notes": [
+    "He wrote: “We are, as ever, the architects of our own demise.”"
+   ],
+   "url": "https://x.com/elonmusk/status/2098096662078193676",
+   "posted": "2026-09-10T13:09:59.647000-04:00",
+   "posted_date": "2026-09-10",
+   "kind": "elon-watch",
+   "text_is_note": true
+  },
+  {
+   "id": "2098052817391092113",
+   "handle": "elonmusk",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-09-10.json"
+   ],
+   "captured": [
+    "2026-09-10"
+   ],
+   "engagement": {},
+   "notes": [
+    "Quote-post: “Tesla self-driving is awesome,” endorsing a post about a Tesla owner largely giving up manual driving."
+   ],
+   "url": "https://x.com/elonmusk/status/2098052817391092113",
+   "posted": "2026-09-10T10:15:46.259000-04:00",
+   "posted_date": "2026-09-10",
+   "kind": "elon-watch",
+   "text_is_note": true
+  },
+  {
+   "id": "2098045279941562584",
+   "handle": "elonmusk",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-09-10.json"
+   ],
+   "captured": [
+    "2026-09-10"
+   ],
+   "engagement": {},
+   "notes": [
+    "Musk called Alex Gibney's documentary a deliberately constructed hit piece and said Gibney lacks integrity; he also replied “Cool” to a CNN post and later criticized a racist headline."
+   ],
+   "url": "https://x.com/elonmusk/status/2098045279941562584",
+   "posted": "2026-09-10T09:45:49.191000-04:00",
+   "posted_date": "2026-09-10",
+   "kind": "elon-watch",
+   "text_is_note": true
+  },
+  {
+   "id": "2098043646037950756",
+   "handle": "elonmusk",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-09-10.json"
+   ],
+   "captured": [
+    "2026-09-10"
+   ],
+   "engagement": {},
+   "notes": [
+    "He highlighted Grok Bot inline drafting improvements and agreed with a joke that a no-pedal/no-steering commute would quickly expose AI-alignment problems."
+   ],
+   "url": "https://x.com/elonmusk/status/2098043646037950756",
+   "posted": "2026-09-10T09:39:19.638000-04:00",
+   "posted_date": "2026-09-10",
+   "kind": "elon-watch",
+   "text_is_note": true
+  },
+  {
+   "id": "2098039192223928680",
+   "handle": "elonmusk",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-09-10.json"
+   ],
+   "captured": [
+    "2026-09-10"
+   ],
+   "engagement": {},
+   "notes": [
+    "He replied “True” to a space-news post about a rising French space player."
+   ],
+   "url": "https://x.com/elonmusk/status/2098039192223928680",
+   "posted": "2026-09-10T09:21:37.766000-04:00",
+   "posted_date": "2026-09-10",
+   "kind": "elon-watch",
+   "text_is_note": true
+  },
+  {
+   "id": "2098038952284586282",
+   "handle": "elonmusk",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-09-10.json"
+   ],
+   "captured": [
+    "2026-09-10"
+   ],
+   "engagement": {},
+   "notes": [
+    "He highlighted Grok Bot inline drafting improvements and agreed with a joke that a no-pedal/no-steering commute would quickly expose AI-alignment problems."
+   ],
+   "url": "https://x.com/elonmusk/status/2098038952284586282",
+   "posted": "2026-09-10T09:20:40.560000-04:00",
+   "posted_date": "2026-09-10",
+   "kind": "elon-watch",
+   "text_is_note": true
+  },
+  {
+   "id": "2098030218703462575",
+   "handle": "elonmusk",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-09-10.json"
+   ],
+   "captured": [
+    "2026-09-10"
+   ],
+   "engagement": {},
+   "notes": [
+    "He agreed with a post arguing media made common sense look like a right-wing position, and later said “Yup” to a legacy-media criticism."
+   ],
+   "url": "https://x.com/elonmusk/status/2098030218703462575",
+   "posted": "2026-09-10T08:45:58.312000-04:00",
+   "posted_date": "2026-09-10",
+   "kind": "elon-watch",
+   "text_is_note": true
+  },
+  {
+   "id": "2098030096800170110",
+   "handle": "elonmusk",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-09-10.json"
+   ],
+   "captured": [
+    "2026-09-10"
+   ],
+   "engagement": {},
+   "notes": [
+    "He replied “Very strange” to discussion amplifying former Anthropic researcher Jacob Coxon's resignation and warning that OpenAI/Anthropic are racing toward self-improving superintelligence."
+   ],
+   "url": "https://x.com/elonmusk/status/2098030096800170110",
+   "posted": "2026-09-10T08:45:29.248000-04:00",
+   "posted_date": "2026-09-10",
+   "kind": "elon-watch",
+   "text_is_note": true
+  },
+  {
+   "id": "2097873144644239493",
+   "handle": "DataRepublican",
+   "name": "DataRepublican (small r)",
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-09-10.json"
+   ],
+   "captured": [
+    "2026-09-10"
+   ],
+   "engagement": {},
+   "notes": [
+    "Used AI to help son learn two years of Saxon Math in six weeks; education/homeschooling"
+   ],
+   "url": "https://x.com/DataRepublican/status/2097873144644239493",
+   "posted": "2026-09-09T22:21:48.938000-04:00",
+   "posted_date": "2026-09-09",
+   "kind": "bookmark",
+   "text_is_note": true
+  },
+  {
+   "id": "2097844489448775708",
+   "handle": "AlexFinn",
+   "name": "Alex Finn",
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-09-10.json"
+   ],
+   "captured": [
+    "2026-09-10"
+   ],
+   "engagement": {},
+   "notes": [
+    "AI coding workflow: have ChatGPT 6 Astra ask extensive planning questions before building"
+   ],
+   "url": "https://x.com/AlexFinn/status/2097844489448775708",
+   "posted": "2026-09-09T20:27:57.007000-04:00",
+   "posted_date": "2026-09-09",
+   "kind": "bookmark",
+   "text_is_note": true
+  },
+  {
+   "id": "2097401001246589094",
+   "handle": "kobex___",
+   "name": "Kyle Kober",
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-09-10.json"
+   ],
+   "captured": [
+    "2026-09-10"
+   ],
+   "engagement": {},
+   "notes": [
+    "ChatGPT Work onboarding guide / practical knowledge-work setup"
+   ],
+   "url": "https://x.com/kobex___/status/2097401001246589094",
+   "posted": "2026-09-08T15:05:41.180000-04:00",
+   "posted_date": "2026-09-08",
+   "kind": "bookmark",
+   "text_is_note": true
+  },
+  {
+   "id": "2096725148057633093",
+   "handle": "TheAhmadOsman",
+   "name": "Ahmad",
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-09-10.json"
+   ],
+   "captured": [
+    "2026-09-10"
+   ],
+   "engagement": {},
+   "notes": [
+    "Free guide/bible for running LLMs locally across laptop, Mac, GPUs, production serving and routing"
+   ],
+   "url": "https://x.com/TheAhmadOsman/status/2096725148057633093",
+   "posted": "2026-09-06T18:20:05.223000-04:00",
+   "posted_date": "2026-09-06",
+   "kind": "bookmark",
+   "text_is_note": true
+  },
+  {
+   "id": "2096578503474884689",
+   "handle": "TMTLongShort",
+   "name": "Just Another Pod Guy",
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-09-10.json"
+   ],
+   "captured": [
+    "2026-09-10"
+   ],
+   "engagement": {},
+   "notes": [
+    "Geopolitical/economic implications of gatekeeping AI and driving labor productivity"
+   ],
+   "url": "https://x.com/TMTLongShort/status/2096578503474884689",
+   "posted": "2026-09-06T08:37:22.430000-04:00",
+   "posted_date": "2026-09-06",
+   "kind": "bookmark",
+   "text_is_note": true
+  },
+  {
+   "id": "2096516805242310807",
+   "handle": "Scobleizer",
+   "name": "Robert Scoble",
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-09-10.json"
+   ],
+   "captured": [
+    "2026-09-10"
+   ],
+   "engagement": {},
+   "notes": [
+    "Aligned News AI reads 30,000 posts/day; memory and model improvement"
+   ],
+   "url": "https://x.com/Scobleizer/status/2096516805242310807",
+   "posted": "2026-09-06T04:32:12.425000-04:00",
+   "posted_date": "2026-09-06",
+   "kind": "bookmark",
+   "text_is_note": true
+  },
+  {
+   "id": "2096500449025155341",
+   "handle": "adileviim",
+   "name": "Adi Leviim | Building SaaS Products",
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-09-10.json"
+   ],
+   "captured": [
+    "2026-09-10"
+   ],
+   "engagement": {},
+   "notes": [
+    "AI Toolbox 3.0: folders and full-text search across ChatGPT, Claude, Gemini and Grok"
+   ],
+   "url": "https://x.com/adileviim/status/2096500449025155341",
+   "posted": "2026-09-06T03:27:12.799000-04:00",
+   "posted_date": "2026-09-06",
+   "kind": "bookmark",
+   "text_is_note": true
+  },
+  {
+   "id": "2096238185760350233",
+   "handle": "Austen",
+   "name": "Austen Allred",
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-09-10.json"
+   ],
+   "captured": [
+    "2026-09-10"
+   ],
+   "engagement": {},
+   "notes": [
+    "Grok Bot skill runs Grok, Claude Code and Codex to argue toward consensus"
+   ],
+   "url": "https://x.com/Austen/status/2096238185760350233",
+   "posted": "2026-09-05T10:05:04.364000-04:00",
+   "posted_date": "2026-09-05",
+   "kind": "bookmark",
+   "text_is_note": true
+  },
+  {
+   "id": "2096207479294279830",
+   "handle": "Viora_Tech_Ai",
+   "name": "Viora Tech",
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-09-10.json"
+   ],
+   "captured": [
+    "2026-09-10"
+   ],
+   "engagement": {},
+   "notes": [
+    "Tesla service technician claims about vehicle recording/ownership concerns"
+   ],
+   "url": "https://x.com/Viora_Tech_Ai/status/2096207479294279830",
+   "posted": "2026-09-05T08:03:03.372000-04:00",
+   "posted_date": "2026-09-05",
+   "kind": "bookmark",
+   "text_is_note": true
+  },
+  {
+   "id": "2095985166170853642",
+   "handle": "mattyp",
+   "name": "matt palmer",
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-09-10.json"
+   ],
+   "captured": [
+    "2026-09-10"
+   ],
+   "engagement": {},
+   "notes": [
+    "Marketplace for curated Grok Bot templates"
+   ],
+   "url": "https://x.com/mattyp/status/2095985166170853642",
+   "posted": "2026-09-04T17:19:39.793000-04:00",
+   "posted_date": "2026-09-04",
+   "kind": "bookmark",
+   "text_is_note": true
+  },
+  {
+   "id": "2095944004932432216",
+   "handle": "AlexFinn",
+   "name": "Alex Finn",
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-09-10.json"
+   ],
+   "captured": [
+    "2026-09-10"
+   ],
+   "engagement": {},
+   "notes": [
+    "Grok Bot coding with developer and project-management bots plus Cursor cloud agents"
+   ],
+   "url": "https://x.com/AlexFinn/status/2095944004932432216",
+   "posted": "2026-09-04T14:36:06.189000-04:00",
+   "posted_date": "2026-09-04",
+   "kind": "bookmark",
+   "text_is_note": true
+  },
+  {
+   "id": "2095804586460332388",
+   "handle": "shannholmberg",
+   "name": "Shann³",
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-09-10.json"
+   ],
+   "captured": [
+    "2026-09-10"
+   ],
+   "engagement": {},
+   "notes": [
+    "First three things to do with GPT-6 Astra; review workflows and project/session context"
+   ],
+   "url": "https://x.com/shannholmberg/status/2095804586460332388",
+   "posted": "2026-09-04T05:22:06.235000-04:00",
+   "posted_date": "2026-09-04",
+   "kind": "bookmark",
+   "text_is_note": true
+  },
+  {
+   "id": "2095633918611636627",
+   "handle": "joshkim",
+   "name": "Josh Kim",
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-09-10.json"
+   ],
+   "captured": [
+    "2026-09-10"
+   ],
+   "engagement": {},
+   "notes": [
+    "Grok Bot for Work: communication, time, information and self-management workflow"
+   ],
+   "url": "https://x.com/joshkim/status/2095633918611636627",
+   "posted": "2026-09-03T18:03:55.849000-04:00",
+   "posted_date": "2026-09-03",
+   "kind": "bookmark",
+   "text_is_note": true
+  },
+  {
+   "id": "2095615734567100766",
+   "handle": "WhiteHouse",
+   "name": "The White House",
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-09-10.json"
+   ],
+   "captured": [
+    "2026-09-10"
+   ],
+   "engagement": {},
+   "notes": [
+    "Arcade.gov promotional game/video post"
+   ],
+   "url": "https://x.com/WhiteHouse/status/2095615734567100766",
+   "posted": "2026-09-03T16:51:40.435000-04:00",
+   "posted_date": "2026-09-03",
+   "kind": "bookmark",
+   "text_is_note": true
+  },
+  {
+   "id": "2095583388493361257",
+   "handle": "bossriceshark",
+   "name": "Matt Rice",
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-09-10.json"
+   ],
+   "captured": [
+    "2026-09-10"
+   ],
+   "engagement": {},
+   "notes": [
+    "Fable Oracle planning -> Engineer Cursor cloud implementation -> second agent review"
+   ],
+   "url": "https://x.com/bossriceshark/status/2095583388493361257",
+   "posted": "2026-09-03T14:43:08.530000-04:00",
+   "posted_date": "2026-09-03",
+   "kind": "bookmark",
+   "text_is_note": true
+  },
+  {
+   "id": "2095570958350499868",
+   "handle": "pengzheng_",
+   "name": "Peng Zheng",
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-09-10.json"
+   ],
+   "captured": [
+    "2026-09-10"
+   ],
+   "engagement": {},
+   "notes": [
+    "Design thinking behind Grok Bot: persistent roles, state, scoped context and coordinated teams"
+   ],
+   "url": "https://x.com/pengzheng_/status/2095570958350499868",
+   "posted": "2026-09-03T13:53:44.953000-04:00",
+   "posted_date": "2026-09-03",
+   "kind": "bookmark",
+   "text_is_note": true
+  },
+  {
+   "id": "2095373560478912543",
+   "handle": "XFreeze",
+   "name": "X Freeze",
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-09-10.json"
+   ],
+   "captured": [
+    "2026-09-10"
+   ],
+   "engagement": {},
+   "notes": [
+    "Why Tesla Cybercab is presented as spotless/fresh and unlike a typical Uber"
+   ],
+   "url": "https://x.com/XFreeze/status/2095373560478912543",
+   "posted": "2026-09-03T00:49:21.633000-04:00",
+   "posted_date": "2026-09-03",
+   "kind": "bookmark",
+   "text_is_note": true
+  },
+  {
+   "id": "2095103978304586027",
+   "handle": "Av1dlive",
+   "name": "Avid",
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-09-10.json"
+   ],
+   "captured": [
+    "2026-09-10"
+   ],
+   "engagement": {},
+   "notes": [
+    "Fable 5.1 with Grok Bot and Cursor cloud agents; agent-company builder guide quote"
+   ],
+   "url": "https://x.com/Av1dlive/status/2095103978304586027",
+   "posted": "2026-09-02T06:58:08.234000-04:00",
+   "posted_date": "2026-09-02",
+   "kind": "bookmark",
+   "text_is_note": true
+  },
+  {
+   "id": "2094824011427373415",
+   "handle": "SamSokolin",
+   "name": "Sam Sokolin",
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-09-10.json"
+   ],
+   "captured": [
+    "2026-09-10"
+   ],
+   "engagement": {},
+   "notes": [
+    "Use Grok Bot to reverse-engineer repeated browser computer-use tasks into scripts"
+   ],
+   "url": "https://x.com/SamSokolin/status/2094824011427373415",
+   "posted": "2026-09-01T12:25:38.929000-04:00",
+   "posted_date": "2026-09-01",
+   "kind": "bookmark",
+   "text_is_note": true
+  },
+  {
+   "id": "2093127984701989032",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "A small number of repeat offenders are responsible for the vast majority of violent crime",
+   "quote": {
+    "handle": "Will_Tanner_1",
+    "text": "1% of the population is responsible for essentially all of the violent crime In the centuries leading up to Europe's heyday, it hanged 1% of each generation Practically every crime beyond the most petty minor offenses were capital crimes, and that was rigorously enforced. Horse"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2093127984701989032",
+   "posted": "2026-08-27T20:06:14.647000-04:00",
+   "posted_date": "2026-08-27",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2093063724282138821",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "My best guess for ~$3.5T revenue is roughly around 2033 fwiw",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2093063724282138821",
+   "posted": "2026-08-27T15:50:53.769000-04:00",
+   "posted_date": "2026-08-27",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2093061403452002749",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "To be fair, the people I know at Anthropic care about doing the right thing and take corrective action when mistakes are made",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2093061403452002749",
+   "posted": "2026-08-27T15:41:40.440000-04:00",
+   "posted_date": "2026-08-27",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2093059632046448715",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Half price Starlink for anyone in the neighborhood of Starbase Louisiana",
+   "quote": {
+    "handle": "Starlink",
+    "text": "SpaceX is building a new spaceport on Louisiana's Gulf Coast. As SpaceX invests in the region, we are offering our neighbors in the Vermilion Parish area a 50% discount on Starlink Residential service plans to new and existing customers → https:// starlink.com/vermilionparish"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json",
+    "jim/musk-cos-2026-08-27.md"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [
+    "Elon: “Half price Starlink for anyone in the neighborhood of Starbase Louisiana” (quote of @Starlink). Follow-through on the Aug 25 Louisiana deal already covered Wed; this is Thursday’s personal-policy post, not a new site announcement."
+   ],
+   "url": "https://x.com/elonmusk/status/2093059632046448715",
+   "posted": "2026-08-27T15:34:38.104000-04:00",
+   "posted_date": "2026-08-27",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2093034850143916253",
+   "handle": "aaronburnett",
+   "name": "Aaron Burnett",
+   "text": "For context Morgan Stanley’s 3.5T revenues in 2040 is based on a number that’s almost half of the company’s stated goal and 10 years later than the company is targeting to achieve it. The recurring theme of SpaceX financial modeling is if you dive in deep enough you can scale Show more",
+   "quote": {
+    "handle": "cb_doge",
+    "text": "BREAKING: Morgan Stanley says SpaceX is “attractively valued” and investors still underestimate the scale of Starship. Following SpaceX’s $100 billion Starbase Louisiana announcement, the firm reiterated its Overweight rating on the stock. The new report highlights:"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/aaronburnett/status/2093034850143916253",
+   "posted": "2026-08-27T13:56:09.638000-04:00",
+   "posted_date": "2026-08-27",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2093023531642863686",
+   "handle": "poteto",
+   "name": "lauren",
+   "text": "i built an island that visualizes my bots as they work! it's cute watching them work and then go to bed and their little houses when they're resting prompt to make this is below!",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {
+    "replies": 110,
+    "reposts": 90,
+    "likes": 1100,
+    "views": 123000,
+    "_approx": true
+   },
+   "notes": [],
+   "url": "https://x.com/poteto/status/2093023531642863686",
+   "posted": "2026-08-27T13:11:11.097000-04:00",
+   "posted_date": "2026-08-27",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2093022557972611491",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "This is how you know it’s true",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2093022557972611491",
+   "posted": "2026-08-27T13:07:18.956000-04:00",
+   "posted_date": "2026-08-27",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2093022276669067634",
+   "handle": "adiix_official",
+   "name": "AdiiX",
+   "text": "Replying to @kenszuo @joshkim and @SpaceXAI This my official GitHub github.com AdiiFX - Overview GitHub is where AdiiFX builds software.",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/adiix_official/status/2093022276669067634",
+   "posted": "2026-08-27T13:06:11.888000-04:00",
+   "posted_date": "2026-08-27",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2093021975476092944",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Yes",
+   "quote": {
+    "handle": "paulg",
+    "text": "I believe the most qualified person should get the job."
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2093021975476092944",
+   "posted": "2026-08-27T13:05:00.078000-04:00",
+   "posted_date": "2026-08-27",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2093015934780748208",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2093015934780748208",
+   "posted": "2026-08-27T12:40:59.864000-04:00",
+   "posted_date": "2026-08-27",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2093003120238334286",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2093003120238334286",
+   "posted": "2026-08-27T11:50:04.639000-04:00",
+   "posted_date": "2026-08-27",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2092997958975328374",
+   "handle": "kimmonismus",
+   "name": "Chubby",
+   "text": "Crazy what we are witnessing: An experimental oral drug called TOFA made obese male mice lose 18% of their body weight in four weeks, mostly fat, without eating less or losing significant muscle. It appears to increase energy expenditure by blocking new fat production while Show more",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {
+    "replies": 84,
+    "reposts": 104,
+    "likes": 1700,
+    "views": 97000,
+    "_approx": true
+   },
+   "notes": [],
+   "url": "https://x.com/kimmonismus/status/2092997958975328374",
+   "posted": "2026-08-27T11:29:34.098000-04:00",
+   "posted_date": "2026-08-27",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2092995967956160535",
+   "handle": "ArtemisConsort",
+   "name": "Hunter Ash",
+   "text": "If we made a random 105 IQ Oklahoma small town sheriff the king of San Francisco for a year, he could fix everything.",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/ArtemisConsort/status/2092995967956160535",
+   "posted": "2026-08-27T11:21:39.402000-04:00",
+   "posted_date": "2026-08-27",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2092995600140656671",
+   "handle": "BankOfDevo",
+   "name": "Ligma Deez",
+   "text": "just throw all the variables into ai and let it output a patch that allows every character to be powerful but yet balanced, it can't be that hard allow the ai to give 1 or 2 characters a slight edge, but overall every character should pack a punch we just want to SLAY monsters",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/BankOfDevo/status/2092995600140656671",
+   "posted": "2026-08-27T11:20:11.708000-04:00",
+   "posted_date": "2026-08-27",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2092992156436734251",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "He’s right",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2092992156436734251",
+   "posted": "2026-08-27T11:06:30.665000-04:00",
+   "posted_date": "2026-08-27",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2092991375444676995",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "!",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2092991375444676995",
+   "posted": "2026-08-27T11:03:24.462000-04:00",
+   "posted_date": "2026-08-27",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2092988782622519728",
+   "handle": "SpaceX",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "research"
+   ],
+   "sources": [
+    "jim/musk-cos-2026-08-27.md"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/SpaceX/status/2092988782622519728",
+   "posted": "2026-08-27T10:53:06.285000-04:00",
+   "posted_date": "2026-08-27",
+   "kind": "research"
+  },
+  {
+   "id": "2092988521376059899",
+   "handle": "SpaceX",
+   "name": null,
+   "text": "",
+   "quote": null,
+   "kinds": [
+    "research"
+   ],
+   "sources": [
+    "jim/musk-cos-2026-08-27.md"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/SpaceX/status/2092988521376059899",
+   "posted": "2026-08-27T10:52:03.999000-04:00",
+   "posted_date": "2026-08-27",
+   "kind": "research"
+  },
+  {
+   "id": "2092966911437103534",
+   "handle": "ArthurMacwaters",
+   "name": "Arthur MacWaters",
+   "text": "Anthropic has the chance to do the funniest thing",
+   "quote": {
+    "handle": "RjNol",
+    "text": "Fortunately, the flood spared the library of the Sakya Monastery in Tibet, and the 84,000 texts remain intact—even though 95% of this ancient collection has yet to be translated (and there is no real will to make that happen). Readers added context Sakya Monastery is in Sakya County, Shigatse, far from the Gyirong border area devastated by the recent Nepal-Tibet floods. Its ~84,000-text library ha"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/ArthurMacwaters/status/2092966911437103534",
+   "posted": "2026-08-27T09:26:11.788000-04:00",
+   "posted_date": "2026-08-27",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2092886157805986213",
+   "handle": "DrewPavlou",
+   "name": "Drew Pavlou",
+   "text": "This Melbourne bookstore “Amplify” only stocks non-white authors. So I went there to ask if I could get a book in their store as somebody of Greek Cypriot ancestry. Unfortunately she told me that they could not sell my book as I was too white for the store. Shocking new Show more",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/DrewPavlou/status/2092886157805986213",
+   "posted": "2026-08-27T04:05:18.622000-04:00",
+   "posted_date": "2026-08-27",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2092866721791016974",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "True",
+   "quote": {
+    "handle": "jack",
+    "text": "cybertruck is the best robot out there"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2092866721791016974",
+   "posted": "2026-08-27T02:48:04.715000-04:00",
+   "posted_date": "2026-08-27",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2092866388549366122",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "History of chess Answer by Grok Chess originated in northern India around the 6th century CE as chaturanga (“four divisions”), a war-simulation game on an 8×8 board representing infantry, cavalry, elephants, and chariots. These became the ancestors of the pawn, knight, bishop, and rook. The king (raja) moved one square in any direction, and victory typically required capturing or checkmating it. By the late 6th or 7th century the game reached Sassanid Persia, where it was renamed shatranj. The Persians standardized it as a two-player game of skill (dice were dropped), introduced the concept of “shah” (check) and “shah mat” (the king is helpless), and kept the counselor (ferz/vizier) as a weak piece that moved only one square diagonally. After the Arab conquest of Persia, shatranj spread across the Islamic world, where players developed theory, problems, and early notation. Chess entered Europe via Moorish Spain and Sicily by the 9th–10th centuries. Pieces were culturally adapted (the elephant became the bishop, the counselor a queen), but movement rules stayed close to shatranj for centuries, producing a slow, positional game. The decisive change occurred in Spain and Italy around 1475: the queen gained the combined power of rook and bishop, the bishop could travel any number of squares diagonally, pawns received a two-square first-move option, and other modern conventions (castling, en passant) began to appear. The faster game was nicknamed “mad queen chess” or “queen’s chess” and rapidly replaced the old rules. The earliest recorded game under the new rules is described in the Catalan poem Scachs d’amor (c. 1475). By the 16th–17th centuries the modern ruleset was largely fixed. Competitive play grew in the 19th century with international tournaments (London 1851), the Staunton chess set (1849), and the first official World Championship match in 1886 (Steinitz vs. Zukertort). FIDE was founded in 1924 and standardized the laws of chess worldwide. The 20th and 21st centuries added clocks, rating systems, computers (Deep Blue defeated Kasparov in 1997), and online play, while the core rules have remained stable for more than 500 years. Show more Ask Grok yourself",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2092866388549366122",
+   "posted": "2026-08-27T02:46:45.264000-04:00",
+   "posted_date": "2026-08-27",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2092865223879163930",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "True",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2092865223879163930",
+   "posted": "2026-08-27T02:42:07.585000-04:00",
+   "posted_date": "2026-08-27",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2092864946111381761",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "True",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2092864946111381761",
+   "posted": "2026-08-27T02:41:01.360000-04:00",
+   "posted_date": "2026-08-27",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2092864514236543169",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "",
+   "quote": {
+    "handle": "naval",
+    "text": "You’re here because an unbroken chain of your ancestors, from tadpoles to monkeys to now, replicated. Don’t be the first one to miss the branch. x.com/matthewschmitz…"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2092864514236543169",
+   "posted": "2026-08-27T02:39:18.393000-04:00",
+   "posted_date": "2026-08-27",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2092864345231253788",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "It’s just a big scam",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2092864345231253788",
+   "posted": "2026-08-27T02:38:38.099000-04:00",
+   "posted_date": "2026-08-27",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2092859697074262132",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "True",
+   "quote": {
+    "handle": "ZubyMusic",
+    "text": "The quality of conversations on X is much higher than it is on Instagram. Far more people here who actually THINK. Text based > Image based. Attracts more thinkers."
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2092859697074262132",
+   "posted": "2026-08-27T02:20:09.892000-04:00",
+   "posted_date": "2026-08-27",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2092834583465328963",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Mostly correct",
+   "quote": null,
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2092834583465328963",
+   "posted": "2026-08-27T00:40:22.341000-04:00",
+   "posted_date": "2026-08-27",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2092691713399931124",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Free usage limit reset for Grok @Bot users",
+   "quote": {
+    "handle": "bot",
+    "text": "All SuperGrok and Cursor Pro subscribers now have access to Grok Bot. We're also resetting weekly usage limits for all users. Enjoy!"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2092691713399931124",
+   "posted": "2026-08-26T15:12:39.463000-04:00",
+   "posted_date": "2026-08-26",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2092665799332745220",
+   "handle": "gregisenberg",
+   "name": "GREG ISENBERG",
+   "text": "This is the MOST asymmetric window I've ever seen in business. It's honestly hard to comprehend. Never in history have this many categories opened at once, ALL ripe for the taking: 1. Take a boring business doing 20% margins, an accounting firm, an IT shop, a local service Show more",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {
+    "replies": 153,
+    "reposts": 203,
+    "likes": 3000,
+    "views": 259000,
+    "_approx": true
+   },
+   "notes": [],
+   "url": "https://x.com/gregisenberg/status/2092665799332745220",
+   "posted": "2026-08-26T13:29:41.068000-04:00",
+   "posted_date": "2026-08-26",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2092408105451852134",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Congrats Falcon team!",
+   "quote": {
+    "handle": "TurkeyBeaver",
+    "text": "This morning’s @SpaceX mission from pad 40 was the last planned Falcon 9 Starlink launch from Florida (and it launched on the fleet leading booster!!), marking the end of an era for these launches on the East Coast. From here on, Starlink missions out of Florida will fly on"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2092408105451852134",
+   "posted": "2026-08-25T20:25:42.059000-04:00",
+   "posted_date": "2026-08-25",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2092407955169931682",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Simple & useful Grok @Bot",
+   "quote": {
+    "handle": "luismbat",
+    "text": "Simple way to find customers using Grok Bot: 1) Use Grok Bot to search for people on X complaining about competitors or looking for alternatives (“Looking for an alternative to...”) 2) Use the @amplemarket connector to learn more about the person + company, then reach out to"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2092407955169931682",
+   "posted": "2026-08-25T20:25:06.229000-04:00",
+   "posted_date": "2026-08-25",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2092368785412133180",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Good review of Grok @Bot",
+   "quote": {
+    "handle": "atmoio",
+    "text": "I didn't expect to actually use this (Grok Bot)"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2092368785412133180",
+   "posted": "2026-08-25T17:49:27.431000-04:00",
+   "posted_date": "2026-08-25",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2092317628635418739",
+   "handle": "poteto",
+   "name": "lauren",
+   "text": "just shipped deeplinks for Grok @Bot on desktop (mobile coming soon)! try installing the X plugin: grokbot://app/v1/plugin/add?id=49086599 and pstack of course: grokbot://app/v1/plugin/add?id=9717366",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/poteto/status/2092317628635418739",
+   "posted": "2026-08-25T14:26:10.705000-04:00",
+   "posted_date": "2026-08-25",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2092312396157325502",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Thank you!",
+   "quote": {
+    "handle": "LAGovJeffLandry",
+    "text": "It’s time for takeoff. Welcome to Louisiana, @SpaceX."
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2092312396157325502",
+   "posted": "2026-08-25T14:05:23.185000-04:00",
+   "posted_date": "2026-08-25",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2092307279140057583",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Pretty much",
+   "quote": {
+    "handle": "MartiansOfMars",
+    "text": "Parody account Replying to @elonmusk and @aaronburnett @elonmusk"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2092307279140057583",
+   "posted": "2026-08-25T13:45:03.193000-04:00",
+   "posted_date": "2026-08-25",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2092298910190448727",
+   "handle": "eptwts",
+   "name": "EP",
+   "text": "here are some more resources you can send to your agent to improve your UI... - https:// ui-skills.com - https:// coss.com/ui -",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/eptwts/status/2092298910190448727",
+   "posted": "2026-08-25T13:11:47.880000-04:00",
+   "posted_date": "2026-08-25",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2092293898790129971",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Yes",
+   "quote": {
+    "handle": "cb_doge",
+    "text": "As Elon Musk says, the future should look like the future."
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2092293898790129971",
+   "posted": "2026-08-25T12:51:53.069000-04:00",
+   "posted_date": "2026-08-25",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2092293363215282202",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "All accurate",
+   "quote": {
+    "handle": "SawyerMerritt",
+    "text": "SpaceX has just officially announced Starbase, Louisiana, a new $100+ billion spaceport in South Louisiana near Pecan Island. Construction starts in 2027, with the first Starship launch from the new site planned for 2029. Starbase, Louisiana will be built to support thousands"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2092293363215282202",
+   "posted": "2026-08-25T12:49:45.378000-04:00",
+   "posted_date": "2026-08-25",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2092292773915537580",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Starbase Louisiana will ultimately have over a dozen launch towers, enabling more than 30 Starship flights per day and making it the biggest launch site on Earth! SpaceX makes sci-fi real.",
+   "quote": {
+    "handle": "SpaceX",
+    "text": "Introducing Starbase, Louisiana – a high-cadence launch site that will enable Starship to open a pathway to the stars for humanity. Thank you to @LAGovJeffLandry and the great people of Louisiana for all of their support as we work together on this audacious project →"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2092292773915537580",
+   "posted": "2026-08-25T12:47:24.878000-04:00",
+   "posted_date": "2026-08-25",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2092291417737400799",
+   "handle": "GrokBotDev",
+   "name": "GrokBot.dev",
+   "text": "You: \"What should I build with my Grok Bots?\" That's what I'm here for! > Paste one prompt into your Grok @bot > I curate Awesome Use Cases & Plugins from X posts & YouTube videos > Your Grok Bot reads the feed daily and suggests what you should set up next",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/GrokBotDev/status/2092291417737400799",
+   "posted": "2026-08-25T12:42:01.540000-04:00",
+   "posted_date": "2026-08-25",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2092282698798600561",
+   "handle": "futurepedia_io",
+   "name": "Futurepedia - Learn to Leverage AI",
+   "text": "SIX PROJECTS, ZERO LINES OF CODE. One Claude Code walkthrough. A website, a game, a Chrome extension, an automation, and an AI vision app. All built and deployed live in under an hour. I broke down the full workflow: >Learn the 3 ways to run Claude Code and which one to use Show more",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/futurepedia_io/status/2092282698798600561",
+   "posted": "2026-08-25T12:07:22.783000-04:00",
+   "posted_date": "2026-08-25",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2092268292077650185",
+   "handle": "godofprompt",
+   "name": "God of Prompt",
+   "text": "A 2 hour podcast episode hides 15 to 25 viral clips inside it. Finding them by hand takes 4 to 6 hours, which is why creators pay $29 a month for AI to do it instead. Someone built AutoClip to do exactly that, and open-sourced the whole thing for free. Paste a YouTube or Show more",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {
+    "replies": 4,
+    "reposts": 3,
+    "likes": 9,
+    "views": 1200,
+    "_approx": true
+   },
+   "notes": [],
+   "url": "https://x.com/godofprompt/status/2092268292077650185",
+   "posted": "2026-08-25T11:10:07.953000-04:00",
+   "posted_date": "2026-08-25",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2092250905655812121",
+   "handle": "EXM7777",
+   "name": "Machina",
+   "text": "i finally cracked frontend design with AI... without using any skill frontend needs taste to not look like slop, and i'm more of an engineer than an artist, so i'm genuinely bad at it my way around it: collecting inspirations and modules from other people, building a lego of Show more",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {
+    "replies": 122,
+    "reposts": 385,
+    "likes": 6000,
+    "views": 883000,
+    "_approx": true
+   },
+   "notes": [],
+   "url": "https://x.com/EXM7777/status/2092250905655812121",
+   "posted": "2026-08-25T10:01:02.707000-04:00",
+   "posted_date": "2026-08-25",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2092146517675221037",
+   "handle": "kloss_xyz",
+   "name": "klöss",
+   "text": "Grok @bot is insane. It can drive revenue, build content systems, and give you a group chat of teammates. Here's 7 S-tier articles you need to read before everyone else figures that out ↓",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/kloss_xyz/status/2092146517675221037",
+   "posted": "2026-08-25T03:06:14.673000-04:00",
+   "posted_date": "2026-08-25",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2092103250296373402",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Banger",
+   "quote": {
+    "handle": "sitsio",
+    "text": "Does anyone remember this amazing story? On July 2, 1982, a truck driver from California flew 16,000 feet into the sky in a lawn chair. Larry Walters, 33, from San Pedro, had dreamed of flying his whole life. He bought 42 eight-foot helium weather balloons, tied them to a regular"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2092103250296373402",
+   "posted": "2026-08-25T00:14:18.926000-04:00",
+   "posted_date": "2026-08-25",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2092038808607084868",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Grok @Bot can do a lot!",
+   "quote": {
+    "handle": "KanekoaTheGreat",
+    "text": "Grok Bot is insane. I asked it to find every video where Dr. Roger Seheult discusses sunlight, red light, infrared light, and mitochondria, including MedCram videos and interviews with Andrew Huberman, Eric Berg, Steven Bartlett, and others. A few minutes later it had:"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2092038808607084868",
+   "posted": "2026-08-24T19:58:14.830000-04:00",
+   "posted_date": "2026-08-24",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2092024658354938114",
+   "handle": "poteto",
+   "name": "lauren",
+   "text": "Replying to @matt_feroz if you like that one check out the whole plugin: plugins/pstack/docs/guide/README.md at main · cursor/plugins From github.com",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/poteto/status/2092024658354938114",
+   "posted": "2026-08-24T19:02:01.147000-04:00",
+   "posted_date": "2026-08-24",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2092013799523897629",
+   "handle": "adiix_official",
+   "name": "AdiiX",
+   "text": "Elon Musk’s Grok Bot turned my laptop into a mini Citadel and it has already made me over $1,600 on a live trading account. The first session made $74. A few sessions later, the total crossed $1,600. Meanwhile the research floor has produced: > 1,703 research tasks > 356 Show more",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/adiix_official/status/2092013799523897629",
+   "posted": "2026-08-24T18:18:52.200000-04:00",
+   "posted_date": "2026-08-24",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2091996794419060905",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Grok Voice is used by Starlink at scale for support & sales",
+   "quote": {
+    "handle": "SpaceXAI",
+    "text": "Replying to @SpaceXAI At Starlink, we’re using Grok Voice to resolve over 15,000 inbound customer support and sales calls a day. Grok diagnoses hardware issues, ships replacements, and fulfills over 3,000 orders a week across voice calls and chat."
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2091996794419060905",
+   "posted": "2026-08-24T17:11:17.867000-04:00",
+   "posted_date": "2026-08-24",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2091995019674787960",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "True",
+   "quote": {
+    "handle": "IterIntellectus",
+    "text": "this is the real problem most people just don't realize the scale of the fertility collapse. population pyramid inversion in almost all countries and old people massively outnumbering kids is THE cataclysm you won't see the tsunami coming or the meteor in the sky or people x.com/ignisanimae/st…"
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2091995019674787960",
+   "posted": "2026-08-24T17:04:14.735000-04:00",
+   "posted_date": "2026-08-24",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2091993370055115129",
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "text": "Grok Voice 2 is great",
+   "quote": {
+    "handle": "SpaceXAI",
+    "text": "Grok Voice Think Fast 2.0 is now #1 on the Artificial Analysis Speech-to-Speech Index. This index measures whether voice agents can reason over the speech it hears, resolve real customer issues, and correctly complete tasks using agent tools."
+   },
+   "kinds": [
+    "elon-watch"
+   ],
+   "sources": [
+    "jim/elon-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/elonmusk/status/2091993370055115129",
+   "posted": "2026-08-24T16:57:41.435000-04:00",
+   "posted_date": "2026-08-24",
+   "kind": "elon-watch"
+  },
+  {
+   "id": "2091958927420277218",
+   "handle": "eng_khairallah1",
+   "name": "Khairallah AL-Awady",
+   "text": "this is f**king insane a free github repo by Garry Tan (President & CEO of Y Combinator) with 127K stars just dropped his exact claude code setup here is how you set it up: 1. run the setup script, it auto detects claude code, codex, kiro, factory or opencode 2. run /plan and Show more",
+   "quote": {
+    "handle": null,
+    "text": "Khairallah AL-Awady"
+   },
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/eng_khairallah1/status/2091958927420277218",
+   "posted": "2026-08-24T14:40:49.671000-04:00",
+   "posted_date": "2026-08-24",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2090815929705775283",
+   "handle": "NetworkChuck",
+   "name": "NetworkChuck",
+   "text": "I think I'm finally making the switch.....and I think you should too. ( @dhh convinced me) -----> this....just might be....the YEAR OF THE LINUX DESKTOP!! NEW VIDEO (LINK BELOW)",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/NetworkChuck/status/2090815929705775283",
+   "posted": "2026-08-21T10:58:57.780000-04:00",
+   "posted_date": "2026-08-21",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2090732576637952348",
+   "handle": "heyrobinai",
+   "name": "Robin Delta",
+   "text": "How to Get Dangerously Good at Grok Bot (Beginner to Pro) the AI industry promised us agents that work for us and shipped us agents we have to work for. i know because i spent months building with Hermes and OpenClaw. the agents were powerful. keeping them...",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {
+    "replies": 13,
+    "reposts": 19,
+    "likes": 136,
+    "views": 65000,
+    "_approx": true
+   },
+   "notes": [],
+   "url": "https://x.com/heyrobinai/status/2090732576637952348",
+   "posted": "2026-08-21T05:27:44.860000-04:00",
+   "posted_date": "2026-08-21",
+   "kind": "bookmark",
+   "is_article": true
+  },
+  {
+   "id": "2090649600231379113",
+   "handle": "ericzakariasson",
+   "name": "eric zakariasson",
+   "text": "try this prompt in grok bot: given all the bots we have, can you visualize how they're being used and which ones are used the most",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {
+    "replies": 8,
+    "reposts": 4,
+    "likes": 97,
+    "views": 14000,
+    "_approx": true
+   },
+   "notes": [],
+   "url": "https://x.com/ericzakariasson/status/2090649600231379113",
+   "posted": "2026-08-20T23:58:01.743000-04:00",
+   "posted_date": "2026-08-20",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2090490444224331787",
+   "handle": "monokern",
+   "name": "monokern",
+   "text": "Grok Bot Architecture Blueprint: How to Build a 24/7 Autonomous Agent Team That Runs While You Sleep Every AI tool you have used until now waits for you. You open a browser tab, type a prompt, wait for a response, copy the output, and paste it into your real work. The moment you close your laptop,...",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {
+    "replies": 20,
+    "reposts": 65,
+    "likes": 221,
+    "views": 1000000,
+    "_approx": true
+   },
+   "notes": [],
+   "url": "https://x.com/monokern/status/2090490444224331787",
+   "posted": "2026-08-20T13:25:35.994000-04:00",
+   "posted_date": "2026-08-20",
+   "kind": "bookmark",
+   "is_article": true
+  },
+  {
+   "id": "2090477008027291844",
+   "handle": "doublenickk",
+   "name": "Shadow Nick",
+   "text": "The Sleeping Giant: Why Grok Bot is About to Eat the Entire AI Agent Market Most people think Grok is just a fun chatbot on X with a rebellious personality. They have no idea it’s quietly transforming into the most formidable execution layer in AI. While the internet was busy...",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {
+    "replies": 59,
+    "reposts": 116,
+    "likes": 418,
+    "views": 1200000,
+    "_approx": true
+   },
+   "notes": [],
+   "url": "https://x.com/doublenickk/status/2090477008027291844",
+   "posted": "2026-08-20T12:32:12.555000-04:00",
+   "posted_date": "2026-08-20",
+   "kind": "bookmark",
+   "is_article": true
+  },
+  {
+   "id": "2090421070230966656",
+   "handle": "heynavtoor",
+   "name": "Nav Toor",
+   "text": "How To Set Up Grokbot The Right Way So It Runs Your Business While You Sleep In 2026 Elon Musk just told his followers to try Grokbot after a power user showed it replaced his $10,000 Mac Mini local AI setup (Elon on X, Aug 16). Gavin Baker says his AI usage went up about 100x after...",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {
+    "replies": 57,
+    "reposts": 238,
+    "likes": 1300,
+    "views": 454000,
+    "_approx": true
+   },
+   "notes": [],
+   "url": "https://x.com/heynavtoor/status/2090421070230966656",
+   "posted": "2026-08-20T08:49:55.945000-04:00",
+   "posted_date": "2026-08-20",
+   "kind": "bookmark",
+   "is_article": true
+  },
+  {
+   "id": "2090195841822998888",
+   "handle": "RayFernando1337",
+   "name": "Ray Fernando",
+   "text": "I was the bottleneck. So I made a Grok Bot the boss of my repo. From there it recruited more Grok Bots. All of this with two prompts + pstack. WARNING you will get \"AI Psychosis\" if you do this workflow. Article Turn Grok Bot Into Your CTO I've turned Grok Bot into my CTO and I'm no longer the bottleneck for new ideas, bug fixes, or anything involving the project. Prompt to CTO When working on a new project I create a bot and give it...",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/RayFernando1337/status/2090195841822998888",
+   "posted": "2026-08-19T17:54:57.308000-04:00",
+   "posted_date": "2026-08-19",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2090162525480366239",
+   "handle": "0xCodez",
+   "name": "Codez",
+   "text": "SpaceXAI engineers (ex-Cursor): \"Right now I'm running 20-30 GrokBot agents, they are fixing 100% of my code bugs even when I sleep every time our team gets feedback on GrokBot, my bots are automatically going off and fixing them\" In a 28-minute podcast, SpaceXAI engineers Show more",
+   "quote": {
+    "handle": "0xCodez",
+    "text": ""
+   },
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/0xCodez/status/2090162525480366239",
+   "posted": "2026-08-19T15:42:34.073000-04:00",
+   "posted_date": "2026-08-19",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2090107020766851436",
+   "handle": "aiedge_",
+   "name": "AI Edge",
+   "text": "This is actually insane. The website has HUNDREDS of FREE Grok Bots available for download. I went through the entire site and dug out the top 10 BEST Grok Bots you need to install now. : 10 Insanely powerful Grok Bots (install prompts included).",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/aiedge_/status/2090107020766851436",
+   "posted": "2026-08-19T12:02:00.718000-04:00",
+   "posted_date": "2026-08-19",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2089995692874068433",
+   "handle": "sairahul1",
+   "name": "Rahul",
+   "text": "Grok Bot is the best AI agent right now It gives you an army of agents that can do work for you 24/7 If you set it up correctly, you gain super powers In this article, I cover setting up Grok Bot, use cases, plugins and what makes Grok Bot so good Article How To Build a One-Person Company Using Grok Bot You are running a one-person company. You find the leads. Write the outreach. Make the images. Answer the replies. Count the week.",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/sairahul1/status/2089995692874068433",
+   "posted": "2026-08-19T04:39:38.080000-04:00",
+   "posted_date": "2026-08-19",
+   "kind": "bookmark"
+  },
+  {
+   "id": "2089917020087210160",
+   "handle": "nateherk",
+   "name": "Nate Herk",
+   "text": "A Week of Grok Bot Lessons in 10 Mins 9 of my favorite Grok Bot hacks. I have been getting my hands dirty with Grok Bot, and the default setup is only the starting point. Creating a few bots is easy. The useful part is teaching them your...",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/nateherk/status/2089917020087210160",
+   "posted": "2026-08-18T23:27:01.026000-04:00",
+   "posted_date": "2026-08-18",
+   "kind": "bookmark",
+   "is_article": true
+  },
+  {
+   "id": "2089758434921160877",
+   "handle": "mattyp",
+   "name": "matt palmer",
+   "text": "Chat is all you need Grok Bot has a single output: a message This might seem backwards. Power-user tools are built on complexity and breadth, right? Chat can’t possibly have my workflow. It’s a special workflow. I’m a...",
+   "quote": null,
+   "kinds": [
+    "bookmark"
+   ],
+   "sources": [
+    "jim/x-bookmarks-2026-08-27.json"
+   ],
+   "captured": [
+    "2026-08-27"
+   ],
+   "engagement": {},
+   "notes": [],
+   "url": "https://x.com/mattyp/status/2089758434921160877",
+   "posted": "2026-08-18T12:56:51.376000-04:00",
+   "posted_date": "2026-08-18",
+   "kind": "bookmark",
+   "is_article": true
+  }
+ ],
+ "unlinked": [
+  {
+   "handles": [
+    "boneGPT"
+   ],
+   "file": "ij_2026-09-27_bookmarks.md",
+   "line": 17,
+   "text": "Next item is the known Sep 26 head (then older: @boneGPT Sep 23, etc.)."
+  },
+  {
+   "handles": [
+    "poteto",
+    "theo",
+    "0xCarnagee",
+    "godofprompt"
+   ],
+   "file": "ij_2026-10-05_x.md",
+   "line": 3,
+   "text": "@poteto pstack post is no longer in the list (looks unbookmarked). Current order: @theo (new), @0xCarnagee blueprint PDF reply, @0xCarnagee Grok Bot post, @godofprompt."
+  },
+  {
+   "handles": [
+    "theo"
+   ],
+   "file": "ij_2026-10-05_x.md",
+   "line": 4,
+   "text": "NEW: @theo (Theo - t3.gg), ~3h before 8:52pm Oct 5 (~6pm ET): quotes @ClaudeDevs \"We made claude.ai 3x faster in two weeks\"; Theo breaks down Anthropic's Claude-driven perf strategies so you can reuse them. URL not captured."
+  },
+  {
+   "handles": [
+    "theo"
+   ],
+   "file": "ij_2026-10-06_x.md",
+   "line": 3,
+   "text": "Three new bookmarks sit above @theo (newest first):"
+  },
+  {
+   "handles": [
+    "theo",
+    "alex_prompter",
+    "petergyang"
+   ],
+   "file": "ij_2026-10-06_x.md",
+   "line": 7,
+   "text": "Then @theo (claude.ai 3x faster, still in the list), @alex_prompter (Karpathy prompts), @petergyang (human+agent Slack)."
+  },
+  {
+   "handles": [
+    "0xCarnagee",
+    "godofprompt",
+    "theo",
+    "alex_prompter"
+   ],
+   "file": "ij_2026-10-06_x.md",
+   "line": 8,
+   "text": "I did not see @0xCarnagee (blueprint PDF reply or Grok Bot team post) or @godofprompt between @theo and @alex_prompter. They look removed or reordered, but X loads the list as you scroll and may have skipped them. Not confirmed."
+  }
+ ]
+}

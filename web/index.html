@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bookmark Atlas · @xristafer</title>
+<link rel="stylesheet" href="style.css">
+<!--INLINE_CSS-->
+</head>
+<body>
+<div id="stars"></div>
+<header>
+  <div class="brand">
+    <div class="logo">✦</div>
+    <div>
+      <h1>Bookmark Atlas</h1>
+      <div class="sub">Everything Boyd (@xristafer) bookmarked and researched, mapped from files saved on this box</div>
+    </div>
+  </div>
+  <div class="stats" id="stats"></div>
+</header>
+<nav id="tabs">
+  <button data-view="galaxy" class="on">Galaxy</button>
+  <button data-view="constellation">Constellation</button>
+  <button data-view="timeline">Timeline</button>
+  <button data-view="authors">Authors</button>
+  <button data-view="cards">Cards</button>
+  <button data-view="holes">Rabbit holes</button>
+  <button data-view="month">This month</button>
+  <span class="grow"></span>
+  <div class="scope" id="scope" title="Which posts to include">
+    <button data-scope="bookmark" class="on">Bookmarks</button>
+    <button data-scope="all">+ Elon watch &amp; research</button>
+  </div>
+</nav>
+<div id="legend"></div>
+<main>
+  <section id="v-galaxy" class="view on"><div class="hint">Click a theme to zoom in · click a post to open it · click empty space to zoom out · bubble size = views when known</div><div class="gwrap"><div id="galaxy"></div><div id="gside"></div></div></section>
+  <section id="v-constellation" class="view"><div class="hint">Every post as a star, linked to its most similar posts (TF-IDF cosine ≥ 0.06). Stars are pulled toward their theme. Scroll to zoom, drag to pan, hover to trace a post's links, click to open it.</div><div id="constellation"></div></section>
+  <section id="v-timeline" class="view"><div id="timeline"></div></section>
+  <section id="v-authors" class="view"><div id="authors"></div></section>
+  <section id="v-cards" class="view">
+    <div class="toolbar">
+      <input id="q" type="search" placeholder="Search text, @author, theme…  (try: pstack, starship, local, $10k)">
+      <select id="sort"><option value="new">Newest first</option><option value="old">Oldest first</option><option value="views">Most viewed</option><option value="bm">Most bookmarked (by everyone)</option><option value="likes">Most liked</option></select>
+      <span id="count" class="muted"></span>
+    </div>
+    <div id="cards" class="grid"></div>
+    <details id="unlinked" class="panel" style="margin-top:18px"><summary style="cursor:pointer">Bookmarks mentioned in the journal without a saved link</summary><div id="unl"></div></details>
+  </section>
+  <section id="v-holes" class="view"><div id="holes"></div></section>
+  <section id="v-month" class="view"><div id="month"></div></section>
+</main>
+<aside id="drawer"><button class="x" id="dx">✕</button><div id="dbody"></div></aside>
+<div id="tip"></div>
+<footer id="foot"></footer>
+<script src="vendor/d3.v7.min.js"></script>
+<!--INLINE_D3-->
+<!--INLINE_DATA-->
+<script src="app.js"></script>
+<!--INLINE_APP-->
+</body>
+</html>
