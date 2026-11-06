@@ -45,7 +45,7 @@
       render();
     });
     $('#foot').innerHTML = `Built ${esc(A.generated.replace('T', ' ').slice(0, 16))} ET from ${Object.keys(A.source_counts).length} saved files on the box. ` +
-      `Dates are when each post was <b>published</b> (decoded from its X status ID); X does not expose when Boyd bookmarked it. ` +
+      `Dates are when each post was <b>published</b> (decoded from its X status ID); X does not expose when Alex bookmarked it. ` +
       `Engagement is whatever the saved snapshot showed (≈ = rounded K/M figures). Nothing here was fetched live from X. ` +
       `Themes: keyword taxonomy + TF-IDF nearest-centroid; rabbit holes: TF-IDF cosine chains.`;
   }

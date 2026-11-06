@@ -1,6 +1,6 @@
 # Bookmark Atlas
 
-An interactive dark-mode explorer of everything Boyd (@xristafer) bookmarked on X and everything his research bots
+An interactive dark-mode explorer of everything Alex (@xristafer) bookmarked on X and everything his research bots
 saved about posts he follows. It's built **only** from files already saved on this box. Nothing is fetched from X,
 and no post, author or number is invented.
 
@@ -33,7 +33,7 @@ and related posts.
 | export | `build/export_static.py` | Writes the offline snapshot and `data/posts.csv`. |
 
 ### Data rules
-- **Dates** are the post's *publish* time, decoded from the X status ID (exact). X never exposed *when* Boyd hit bookmark, so the timeline and monthly view count by publish date.
+- **Dates** are the post's *publish* time, decoded from the X status ID (exact). X never exposed *when* Alex hit bookmark, so the timeline and monthly view count by publish date.
 - **Engagement** is copied from the saved snapshot. The accessibility snapshots give exact counts. Jim's JSON scrapes give rounded figures ("1.3K"), which are shown with ≈ and only used when exactly four footer numbers were present (replies, reposts, likes, views). When a post was captured several times, exact counts win, then the latest (largest) capture.
 - When only an interest-journal description exists (no post text was saved), the card shows it in italics as a "Journal note".
 - The smoke test verifies that every status ID, author handle and exact engagement number appears verbatim in a cited source file.
@@ -49,6 +49,6 @@ and related posts.
 
 ---
 ## Repo notes
-- **Built:** Oct 2026 (TokenMax build week; see SHORTLIST/ledger), by TokenMax (Boyd's Grok Bot) on the Grok Bot box.
+- **Built:** Oct 2026 (TokenMax build week; see SHORTLIST/ledger), by TokenMax (Alex's Grok Bot) on the Grok Bot box.
 - **Run:** `./run.sh` (then open the localhost URL it prints).
 - Imported from `/workspace/tokenmax/bookmark-atlas` on Oct 23, 2026. node_modules, virtualenvs, logs and files over 20 MB were left out.
